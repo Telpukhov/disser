@@ -29,7 +29,7 @@ def tanimoto(s1, s2):
 
 
 def clean_array(FA, FAA):
-    reject = [[16, 15], [203, 202]]
+    reject = [[16, 15], [203, 202], [187, 101], [200, 199], [48,47], [119,116], [122,116], [152,147], [157, 147], [187, 184], [191, 101]]
     CA = copy.copy(FA)
     accord = [i for i in range(len(CA))]
     accord2 = []
@@ -41,12 +41,13 @@ def clean_array(FA, FAA):
             break
         for j in range(i):
             cmp = fuzz.ratio(CA[i], CA[j])
-            if cmp > 80:
+            if cmp > 60:
                 if [accord[i]+1, accord[j]+1] not in reject:
                     print(CA[i])
                     print(CA[j])
                     CA.pop(i)
                     print('deleted ' + str(accord[i]+1) + ' matches with ' + str(accord[j]+1))
+                    print('CMP!!!! = ', cmp)
                     print('---------------------------------')
                     accord2.append([accord[i], j])
                     accord.pop(i)
@@ -61,7 +62,7 @@ def clean_array(FA, FAA):
     CAA = copy.deepcopy(FAA)
     for ref in CAA:
         for i in range(len(CAA[ref])):
-            CAA[ref][i] = accord[CAA[ref][i]]
+            CAA[ref][i] = accord[CAA[ref][i]]+1
     return CA, CAA
 
 
@@ -84,8 +85,11 @@ pprint(CAA)
 
 
 #вывод
+i = 0
 for comment in CA:
-    print(comment)
+    i+=1
+    print('['+str(i)+'] '+comment)
 
-for ref in sorted(CAA):
-    print(CAA[ref])
+x = [i for i in range(len(CAA))]
+for i in x:
+    print(str(i+1)+'--'+str(CAA[str(i+1)]))
