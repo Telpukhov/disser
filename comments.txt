@@ -1,203 +1,203 @@
-D.P. Siewiorek, R.S. Swarz, Reliable Computer Systems, 2nd ed., Digital Press, 1992.
-Тельпухов Д.В., Рухлов В.С., Рухлов И.С. Исследование и разработка методов оценки сбоеустойчивости комбинационных схем, реализованных в базисе ПЛИС // Инженерный вестник Дона. 2016. Т. 40. № 1 (40). С. 21.
-Rezaei S, Miremadi SG, Asadi H, Fazeli M. Soft error estimation and mitigation of digital circuits by characterizing input patterns of logic gates. Microelectron Reliab 2014;54(6–7):1412–20. 
-M. Raji, H. Pedram, B. Ghavami, A practical metric for soft error vulnerability analysis of combinational circuits. Microelectron Reliab 2015;55:448–460.
-G. Bany Hamad et al. Characterizing, modeling, and analyzing soft error propagation in asynchronous and synchronous digital circuits. Microelectronics Reliability 55 (2015) 238–250
-Радиационные эффекты в кремниевых интегральных схемах космического применения / К. И. Таперо, В. Н. Улимов, А. М. Членов. — 2-е изд. (эл.). — М. : БИНОМ. Лаборатория знаний, 2014
-O’Bryan M., Label K., Reed R., Barth J., Seidleck C., Marshall P., Marshall C., Carts M. Single Event Effect and Radiation Damage Results For Candidate Spacecraft. – IEEE NSREC Conference, 1998.
+п»їD.P. Siewiorek, R.S. Swarz, Reliable Computer Systems, 2nd ed., Digital Press, 1992.
+РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., Р СѓС…Р»РѕРІ Р’.РЎ., Р СѓС…Р»РѕРІ Р.РЎ. РСЃСЃР»РµРґРѕРІР°РЅРёРµ Рё СЂР°Р·СЂР°Р±РѕС‚РєР° РјРµС‚РѕРґРѕРІ РѕС†РµРЅРєРё СЃР±РѕРµСѓСЃС‚РѕР№С‡РёРІРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… СЃС…РµРј, СЂРµР°Р»РёР·РѕРІР°РЅРЅС‹С… РІ Р±Р°Р·РёСЃРµ РџР›РРЎ // РРЅР¶РµРЅРµСЂРЅС‹Р№ РІРµСЃС‚РЅРёРє Р”РѕРЅР°. 2016. Рў. 40. в„– 1 (40). РЎ. 21.
+Rezaei S, Miremadi SG, Asadi H, Fazeli M. Soft error estimation and mitigation of digital circuits by characterizing input patterns of logic gates. Microelectron Reliab 2014;54(6вЂ“7):1412вЂ“20. 
+M. Raji, H. Pedram, B. Ghavami, A practical metric for soft error vulnerability analysis of combinational circuits. Microelectron Reliab 2015;55:448вЂ“460.
+G. Bany Hamad et al. Characterizing, modeling, and analyzing soft error propagation in asynchronous and synchronous digital circuits. Microelectronics Reliability 55 (2015) 238вЂ“250
+Р Р°РґРёР°С†РёРѕРЅРЅС‹Рµ СЌС„С„РµРєС‚С‹ РІ РєСЂРµРјРЅРёРµРІС‹С… РёРЅС‚РµРіСЂР°Р»СЊРЅС‹С… СЃС…РµРјР°С… РєРѕСЃРјРёС‡РµСЃРєРѕРіРѕ РїСЂРёРјРµРЅРµРЅРёСЏ / Рљ. Р. РўР°РїРµСЂРѕ, Р’. Рќ. РЈР»РёРјРѕРІ, Рђ. Рњ. Р§Р»РµРЅРѕРІ. вЂ” 2-Рµ РёР·Рґ. (СЌР».). вЂ” Рњ. : Р‘РРќРћРњ. Р›Р°Р±РѕСЂР°С‚РѕСЂРёСЏ Р·РЅР°РЅРёР№, 2014
+OвЂ™Bryan M., Label K., Reed R., Barth J., Seidleck C., Marshall P., Marshall C., Carts M. Single Event Effect and Radiation Damage Results For Candidate Spacecraft. вЂ“ IEEE NSREC Conference, 1998.
 T.C. May, M.H. Woods, Alpha-Particle-Induced Soft Errors in Dynamic Memories, IEEE Trans. on Electron Devices, 1979, vol. 26, pp. 2-9.
 Baze M., Buchner S., Attenuation of single event induced pulses in CMOS combinational logic, IEEE Transactions on Nuclear Science, Vol. 44, No. 6, December 1997, Page(s): 2217?2223.
-Mahatme NN, Jagannathan S, Loveless TD, Massengill LW, Bhuva BL, Wen S-J, et al. Comparison of combinational and sequential error rates for a deep submicron process. IEEE Trans Nucl Sci (TNS) 2011;58(6):2719–25.
-Mahatme NN, Gaspard NJ, Assis T, Jagannathan S, Chatterjee I, Loveless TD, et al. Impact of technology scaling on the combinational logic soft error rate. In: International reliability physics symposium (IRPS); 2014. p. 5F.2.1–5F.2.6.
-Shivakumar P, Kistler M, Keckler SW, Burger D, Alvisi L. Modeling the effect of technology trends on the soft error rate of combinational logic. In: Int. conf. on dependable systems and networks (DSN 2002), Bethesda, MD, USA, June 2002. p. 389–98
+Mahatme NN, Jagannathan S, Loveless TD, Massengill LW, Bhuva BL, Wen S-J, et al. Comparison of combinational and sequential error rates for a deep submicron process. IEEE Trans Nucl Sci (TNS) 2011;58(6):2719вЂ“25.
+Mahatme NN, Gaspard NJ, Assis T, Jagannathan S, Chatterjee I, Loveless TD, et al. Impact of technology scaling on the combinational logic soft error rate. In: International reliability physics symposium (IRPS); 2014. p. 5F.2.1вЂ“5F.2.6.
+Shivakumar P, Kistler M, Keckler SW, Burger D, Alvisi L. Modeling the effect of technology trends on the soft error rate of combinational logic. In: Int. conf. on dependable systems and networks (DSN 2002), Bethesda, MD, USA, June 2002. p. 389вЂ“98
 Luciano Lavagno,Igor L. Markov,Grant Martin,Louis K. Scheffer, Electronic Design Automation for IC System Design, Verification, and Testing // CRC Press, p.644, 2016.
-Мосин С.Г. автореферат диссертации на соискание степени доктора технических наук : 05.13.12 / Владимирский государственный университет имени Александра Григорьевича и Николая Григорьевича Столетовых. Владимир, 2013
+РњРѕСЃРёРЅ РЎ.Р“. Р°РІС‚РѕСЂРµС„РµСЂР°С‚ РґРёСЃСЃРµСЂС‚Р°С†РёРё РЅР° СЃРѕРёСЃРєР°РЅРёРµ СЃС‚РµРїРµРЅРё РґРѕРєС‚РѕСЂР° С‚РµС…РЅРёС‡РµСЃРєРёС… РЅР°СѓРє : 05.13.12 / Р’Р»Р°РґРёРјРёСЂСЃРєРёР№ РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹Р№ СѓРЅРёРІРµСЂСЃРёС‚РµС‚ РёРјРµРЅРё РђР»РµРєСЃР°РЅРґСЂР° Р“СЂРёРіРѕСЂСЊРµРІРёС‡Р° Рё РќРёРєРѕР»Р°СЏ Р“СЂРёРіРѕСЂСЊРµРІРёС‡Р° РЎС‚РѕР»РµС‚РѕРІС‹С…. Р’Р»Р°РґРёРјРёСЂ, 2013
 Gatner Dataquest and EE Times-Asia 2004 Report. Design Trends and EDA Tools: Mainland China and Taiwan, 28 p. 2004.
 Gatner Dataquest and EE Times-Asia 2006 Report. Design Trends and EDA Tools: Asia-Pacific, 18 p. 2006.
 Rusu S. Trends and Challenges in VLSI Technology Scaling Towards 100 nm. Intel Corp., 46 p. 2001.
 H. Chang, L. Cooke, M. Hunt, G. Martin, A. McNelly, and L. Todd, Surviving the SOC Revolution: A Guide to Platform-Based Design, Kluwer Academic Publishers (now Springer), Dordrecht, the Netherlands, 1999
-Бадин М., Воронков Д., Руткевич А., Сенченко М, Стешенко В., Шишкин Г., Платформенный принцип проектирования СБИС и ПЛИС // электронные компоненты №1 2008
+Р‘Р°РґРёРЅ Рњ., Р’РѕСЂРѕРЅРєРѕРІ Р”., Р СѓС‚РєРµРІРёС‡ Рђ., РЎРµРЅС‡РµРЅРєРѕ Рњ, РЎС‚РµС€РµРЅРєРѕ Р’., РЁРёС€РєРёРЅ Р“., РџР»Р°С‚С„РѕСЂРјРµРЅРЅС‹Р№ РїСЂРёРЅС†РёРї РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ РЎР‘РРЎ Рё РџР›РРЎ // СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ РєРѕРјРїРѕРЅРµРЅС‚С‹ в„–1 2008
 I.Bolsens, FPGA, a future proof programmable system fabric, Talk given at Georgia Tech, Atlanta, GA, March 2005, slides available at: http://limsk.ece.gatech.edu/crest/talks/georgiafinal.pdf (Accessed on January 2018)
-I. Bolsens, The all programmable SoC – At the heart of next generation embedded systems, Electronic Design Process Symposium, Monterey, CA, April 2013
+I. Bolsens, The all programmable SoC вЂ“ At the heart of next generation embedded systems, Electronic Design Process Symposium, Monterey, CA, April 2013
 G. Martin and G. Smith, High-level synthesis: Past, present, and future, IEEE Design and Test, 26(4), 18-25, July 2009.
 C. Constantinescu, Trends and challenges in VLSI circuit reliability, IEEE Micro, 23, 14-19, 2003.
 C. Constantinescu, Trends and challenges in VLSI circuit reliability, IEEE Micro, 23, 14-19, 2003.
 Luciano Lavagno,Igor L. Markov,Grant Martin,Louis K. Scheffer, Electronic Design Automation for IC Implementation, Circuit Design, and Process Technology // CRC Press, p.644, 2016.
 Rudell, Richard L. (1986-06-05). Multiple-Valued Logic Minimization for PLA Synthesis (PDF). Memorandum No. UCB/ERL M86-65. Berkeley.
-Donald E. Thomas, Philip R. Moorby. Register Transfer Level Synthesis // The Verilog® Hardware Description Language. — Axel Springer AG, 2002. — С. 35-36. — 381 с. — ISBN 978-1-4020-7089-1.
+Donald E. Thomas, Philip R. Moorby. Register Transfer Level Synthesis // The VerilogВ® Hardware Description Language. вЂ” Axel Springer AG, 2002. вЂ” РЎ. 35-36. вЂ” 381 СЃ. вЂ” ISBN 978-1-4020-7089-1.
 Berkeley Logic Synthesis and Verification Group, ABC: A System for Sequential Synthesis and Verification. http://www.eecs.berkeley.edu/~alanmi/abc/
-Wolf C., Glaser J.,: Yosys – A Free Verilog Synthesis Suite. Submitted to^ Proceedings of the 21st Austrian Workshop on Microelectronics (Austrochip), Linz, Austria, 10 Oct 2013.
+Wolf C., Glaser J.,: Yosys вЂ“ A Free Verilog Synthesis Suite. Submitted to^ Proceedings of the 21st Austrian Workshop on Microelectronics (Austrochip), Linz, Austria, 10 Oct 2013.
 J. Luu, J. Goeders, M. Wainberg, A. Somerville, T. Yu, K. Nasartschuk, M. Nasr, S. Wang, T. Liu, N. Ahmed, K. B. Kent, J. Anderson, J. Rose and V. Betz "VTR 7.0: Next Generation Architecture and CAD System for FPGAs," ACM TRETS, Vol. 7, No. 2, June 2014, pp. 6:1 - 6:30.
-"VTR 7.0: Next Generation Architecture and CAD System for FPGAs". ACM Trans. Reconfigurable Technol. Syst. 7: 6:1–6:30. 2014.
+"VTR 7.0: Next Generation Architecture and CAD System for FPGAs". ACM Trans. Reconfigurable Technol. Syst. 7: 6:1вЂ“6:30. 2014.
 "The VTR project: architecture and CAD for FPGAs from verilog to routing". Proceedings of the ACM/SIGDA international symposium on Field Programmable Gate Arrays. 2012.
-"Berkeley logic interchange format (BLIF)". Oct Tools Distribution. 2: 197–247. 1992.
-Конструкторско-технологическое проектирование электронной аппаратуры: Учебник для вузов. – М.: Изд. МГТУ им. Н.Э. Баумана, 2002. – 528 с. 
-Mazur J. The Radiation Environment Outside and Inside the Spacecraft // Radiation Effects – From Particles to Payloads. IEEE NSREC Short Course, 2002. P. II-1 – II-69
-Действие проникающей радиации на изделия электронной техники / Под ред. Е.А. Ладыгина. – М.: Сов. радио, 1980
-Ладыгин Е.А. Радиационная технология твердотельных электронных приборов. – М.: ЦНИИ «Электроника», 1976.
-Чумаков А. И. Действие космической радиации на интегральные схемы. – М.: Радио и связь, 2004
-Никифоров А. Ю., Телец В.А., Чумаков А. И. Радиационные эффекты в КМОП ИС – М.: Радио и связь, 1994
-Mazur J. The Radiation Environment Outside and Inside the Spacecraft // Radiation Effects – From Particles to Payloads. IEEE NSREC Short Course, 2002. P. II-1 – II-69
-Чумаков А. И. Действие космической радиации на интегральные схемы. – М.: Радио и связь, 2004
-Никифоров А. Ю., Телец В.А., Чумаков А. И. Радиационные эффекты в КМОП ИС – М.: Радио и связь, 1994
-К. И. Таперо, В.Н. Улимов, А.М. Радиационные эффекты в кремниевых интегральных схемах космического применения / Членов. — 2-е изд. (эл.). — Электрон — М. : БИНОМ. Лаборатория знаний, 2014.
+"Berkeley logic interchange format (BLIF)". Oct Tools Distribution. 2: 197вЂ“247. 1992.
+РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂСЃРєРѕ-С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ Р°РїРїР°СЂР°С‚СѓСЂС‹: РЈС‡РµР±РЅРёРє РґР»СЏ РІСѓР·РѕРІ. вЂ“ Рњ.: РР·Рґ. РњР“РўРЈ РёРј. Рќ.Р­. Р‘Р°СѓРјР°РЅР°, 2002. вЂ“ 528 СЃ. 
+Mazur J. The Radiation Environment Outside and Inside the Spacecraft // Radiation Effects вЂ“ From Particles to Payloads. IEEE NSREC Short Course, 2002. P. II-1 вЂ“ II-69
+Р”РµР№СЃС‚РІРёРµ РїСЂРѕРЅРёРєР°СЋС‰РµР№ СЂР°РґРёР°С†РёРё РЅР° РёР·РґРµР»РёСЏ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ С‚РµС…РЅРёРєРё / РџРѕРґ СЂРµРґ. Р•.Рђ. Р›Р°РґС‹РіРёРЅР°. вЂ“ Рњ.: РЎРѕРІ. СЂР°РґРёРѕ, 1980
+Р›Р°РґС‹РіРёРЅ Р•.Рђ. Р Р°РґРёР°С†РёРѕРЅРЅР°СЏ С‚РµС…РЅРѕР»РѕРіРёСЏ С‚РІРµСЂРґРѕС‚РµР»СЊРЅС‹С… СЌР»РµРєС‚СЂРѕРЅРЅС‹С… РїСЂРёР±РѕСЂРѕРІ. вЂ“ Рњ.: Р¦РќРР В«Р­Р»РµРєС‚СЂРѕРЅРёРєР°В», 1976.
+Р§СѓРјР°РєРѕРІ Рђ. Р. Р”РµР№СЃС‚РІРёРµ РєРѕСЃРјРёС‡РµСЃРєРѕР№ СЂР°РґРёР°С†РёРё РЅР° РёРЅС‚РµРіСЂР°Р»СЊРЅС‹Рµ СЃС…РµРјС‹. вЂ“ Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ, 2004
+РќРёРєРёС„РѕСЂРѕРІ Рђ. Р®., РўРµР»РµС† Р’.Рђ., Р§СѓРјР°РєРѕРІ Рђ. Р. Р Р°РґРёР°С†РёРѕРЅРЅС‹Рµ СЌС„С„РµРєС‚С‹ РІ РљРњРћРџ РРЎ вЂ“ Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ, 1994
+Mazur J. The Radiation Environment Outside and Inside the Spacecraft // Radiation Effects вЂ“ From Particles to Payloads. IEEE NSREC Short Course, 2002. P. II-1 вЂ“ II-69
+Р§СѓРјР°РєРѕРІ Рђ. Р. Р”РµР№СЃС‚РІРёРµ РєРѕСЃРјРёС‡РµСЃРєРѕР№ СЂР°РґРёР°С†РёРё РЅР° РёРЅС‚РµРіСЂР°Р»СЊРЅС‹Рµ СЃС…РµРјС‹. вЂ“ Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ, 2004
+РќРёРєРёС„РѕСЂРѕРІ Рђ. Р®., РўРµР»РµС† Р’.Рђ., Р§СѓРјР°РєРѕРІ Рђ. Р. Р Р°РґРёР°С†РёРѕРЅРЅС‹Рµ СЌС„С„РµРєС‚С‹ РІ РљРњРћРџ РРЎ вЂ“ Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ, 1994
+Рљ. Р. РўР°РїРµСЂРѕ, Р’.Рќ. РЈР»РёРјРѕРІ, Рђ.Рњ. Р Р°РґРёР°С†РёРѕРЅРЅС‹Рµ СЌС„С„РµРєС‚С‹ РІ РєСЂРµРјРЅРёРµРІС‹С… РёРЅС‚РµРіСЂР°Р»СЊРЅС‹С… СЃС…РµРјР°С… РєРѕСЃРјРёС‡РµСЃРєРѕРіРѕ РїСЂРёРјРµРЅРµРЅРёСЏ / Р§Р»РµРЅРѕРІ. вЂ” 2-Рµ РёР·Рґ. (СЌР».). вЂ” Р­Р»РµРєС‚СЂРѕРЅ вЂ” Рњ. : Р‘РРќРћРњ. Р›Р°Р±РѕСЂР°С‚РѕСЂРёСЏ Р·РЅР°РЅРёР№, 2014.
 J. F. Ziegler, et al., .IBM Experiments in Soft Fails in Computer Electronics (1978-1994),. IBM Journal of Reearch and Development, 1996, vol. 40, No. 1.
 K. Rodbell, et al., .Low-Energy Proton-Induced Single-Event-Upsets in 65 nm Node, Silicon-on-Insulator, Latches and Memory Cells,. IEEE Trans. on Nuclear Science, 2007, vol. 54, no. 6, pp. 2474-2479.
 D. F. Heidel, et al., .Alpha-particle Induced Upsets in Advanced CMOS Circuits and Technology,. IBM Journal of Research and Development, 2008, vol. 52, no. 3, pp. 225-232.
-T. R. Oldham, and F. B. McLean, “Total ionizing dose effects in MOS oxides and devices,” IEEE Trans. Nucl. Sci., vol. 50, no. 3, pp. 483–498, Jun. 2003.
-H. J. Barnaby, “Total-ionizing-dose effects in modern CMOS technologies,” IEEE Trans. Nucl. Sci., vol. 53, no. 6, pp. 3103–3121, 2006.
-Васенко А.А., Галанина Н.Д., Гусев К.Е., Демидов В.С., Демидова Е.В., Кирпичников И.В., Соколов А.Ю., Старостин А.С., Халдеева Н.А. ИССЛЕДОВАНИЕ ПОЛУКОГЕРЕНТНЫХ ВЗАИМОДЕЙСТВИЙ ПРОТОНОВ С КРЕМНИЕМ ПРИ ЭНЕРГИИ 1 ГЭВ // Ядерная физика. 2007. Т. 70. № 7. С. 1199-1208.
-Селецкий А.В. Исследование и разработка конструктивно-технологических методов повышения радиационной стойкости глубоко-субмикронных СБИС с помощью средств приборно-технологического моделирования // диссертация на соискание ученой степени кандидата технических наук / Нац. исслед. ун-т МИЭТ. Москва, 2012
-Титов А.И., Шелепин Н.А., Селецкий А.В. Исследование и разработка структур для экстракции параметров моделей схемотехнического учета дозовых радиационных эффектов субмикронных СБИС // Проблемы разработки перспективных микро- и наноэлектронных систем (МЭС). 2014. № 3. С. 149-154.
+T. R. Oldham, and F. B. McLean, вЂњTotal ionizing dose effects in MOS oxides and devices,вЂќ IEEE Trans. Nucl. Sci., vol. 50, no. 3, pp. 483вЂ“498, Jun. 2003.
+H. J. Barnaby, вЂњTotal-ionizing-dose effects in modern CMOS technologies,вЂќ IEEE Trans. Nucl. Sci., vol. 53, no. 6, pp. 3103вЂ“3121, 2006.
+Р’Р°СЃРµРЅРєРѕ Рђ.Рђ., Р“Р°Р»Р°РЅРёРЅР° Рќ.Р”., Р“СѓСЃРµРІ Рљ.Р•., Р”РµРјРёРґРѕРІ Р’.РЎ., Р”РµРјРёРґРѕРІР° Р•.Р’., РљРёСЂРїРёС‡РЅРёРєРѕРІ Р.Р’., РЎРѕРєРѕР»РѕРІ Рђ.Р®., РЎС‚Р°СЂРѕСЃС‚РёРЅ Рђ.РЎ., РҐР°Р»РґРµРµРІР° Рќ.Рђ. РРЎРЎР›Р•Р”РћР’РђРќРР• РџРћР›РЈРљРћР“Р•Р Р•РќРўРќР«РҐ Р’Р—РђРРњРћР”Р•Р™РЎРўР’РР™ РџР РћРўРћРќРћР’ РЎ РљР Р•РњРќРР•Рњ РџР Р Р­РќР•Р Р“РР 1 Р“Р­Р’ // РЇРґРµСЂРЅР°СЏ С„РёР·РёРєР°. 2007. Рў. 70. в„– 7. РЎ. 1199-1208.
+РЎРµР»РµС†РєРёР№ Рђ.Р’. РСЃСЃР»РµРґРѕРІР°РЅРёРµ Рё СЂР°Р·СЂР°Р±РѕС‚РєР° РєРѕРЅСЃС‚СЂСѓРєС‚РёРІРЅРѕ-С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёС… РјРµС‚РѕРґРѕРІ РїРѕРІС‹С€РµРЅРёСЏ СЂР°РґРёР°С†РёРѕРЅРЅРѕР№ СЃС‚РѕР№РєРѕСЃС‚Рё РіР»СѓР±РѕРєРѕ-СЃСѓР±РјРёРєСЂРѕРЅРЅС‹С… РЎР‘РРЎ СЃ РїРѕРјРѕС‰СЊСЋ СЃСЂРµРґСЃС‚РІ РїСЂРёР±РѕСЂРЅРѕ-С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРѕРіРѕ РјРѕРґРµР»РёСЂРѕРІР°РЅРёСЏ // РґРёСЃСЃРµСЂС‚Р°С†РёСЏ РЅР° СЃРѕРёСЃРєР°РЅРёРµ СѓС‡РµРЅРѕР№ СЃС‚РµРїРµРЅРё РєР°РЅРґРёРґР°С‚Р° С‚РµС…РЅРёС‡РµСЃРєРёС… РЅР°СѓРє / РќР°С†. РёСЃСЃР»РµРґ. СѓРЅ-С‚ РњРР­Рў. РњРѕСЃРєРІР°, 2012
+РўРёС‚РѕРІ Рђ.Р., РЁРµР»РµРїРёРЅ Рќ.Рђ., РЎРµР»РµС†РєРёР№ Рђ.Р’. РСЃСЃР»РµРґРѕРІР°РЅРёРµ Рё СЂР°Р·СЂР°Р±РѕС‚РєР° СЃС‚СЂСѓРєС‚СѓСЂ РґР»СЏ СЌРєСЃС‚СЂР°РєС†РёРё РїР°СЂР°РјРµС‚СЂРѕРІ РјРѕРґРµР»РµР№ СЃС…РµРјРѕС‚РµС…РЅРёС‡РµСЃРєРѕРіРѕ СѓС‡РµС‚Р° РґРѕР·РѕРІС‹С… СЂР°РґРёР°С†РёРѕРЅРЅС‹С… СЌС„С„РµРєС‚РѕРІ СЃСѓР±РјРёРєСЂРѕРЅРЅС‹С… РЎР‘РРЎ // РџСЂРѕР±Р»РµРјС‹ СЂР°Р·СЂР°Р±РѕС‚РєРё РїРµСЂСЃРїРµРєС‚РёРІРЅС‹С… РјРёРєСЂРѕ- Рё РЅР°РЅРѕСЌР»РµРєС‚СЂРѕРЅРЅС‹С… СЃРёСЃС‚РµРј (РњР­РЎ). 2014. в„– 3. РЎ. 149-154.
 Platteter, D.G. (October 1980). Protection of LSI Microprocessors using Triple Modular Redundancy. International IEEE Symposium on Fault Tolerant Computing.
-Лошакова И. М. «Оценка инновационного потенциала предприятий в условиях формирования высокотехнологичных территориально-отраслевых систем», диссертация на соискание ученой степени кандидата экономических наук, Воронеж 2015
+Р›РѕС€Р°РєРѕРІР° Р. Рњ. В«РћС†РµРЅРєР° РёРЅРЅРѕРІР°С†РёРѕРЅРЅРѕРіРѕ РїРѕС‚РµРЅС†РёР°Р»Р° РїСЂРµРґРїСЂРёСЏС‚РёР№ РІ СѓСЃР»РѕРІРёСЏС… С„РѕСЂРјРёСЂРѕРІР°РЅРёСЏ РІС‹СЃРѕРєРѕС‚РµС…РЅРѕР»РѕРіРёС‡РЅС‹С… С‚РµСЂСЂРёС‚РѕСЂРёР°Р»СЊРЅРѕ-РѕС‚СЂР°СЃР»РµРІС‹С… СЃРёСЃС‚РµРјВ», РґРёСЃСЃРµСЂС‚Р°С†РёСЏ РЅР° СЃРѕРёСЃРєР°РЅРёРµ СѓС‡РµРЅРѕР№ СЃС‚РµРїРµРЅРё РєР°РЅРґРёРґР°С‚Р° СЌРєРѕРЅРѕРјРёС‡РµСЃРєРёС… РЅР°СѓРє, Р’РѕСЂРѕРЅРµР¶ 2015
 http://mikron.ru/company/
 http://www.angstrem-t.com/press-center/detail.php?ELEMENT_ID=1004
 https://www.niisi.ru/fab/index.html
 https://news.synopsys.com/index.php?s=20295&item=122648
 http://www.mes-conference.ru/index.php?prev=mesPrev&ls=ru
-Поспелов Д. А. Логические методы анализа и синтеза схем./ Изд. 3-е, перераб. и доп. — М.: Энергия, 1974. — 368с.
-P. Shivakumar, M. Kistler, S. Keckler, D. Burger, and L. Alvisi, “Modeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic,” in Dependable Systems and Networks (DSN). Proceedings of the International Conference on, 2002, pp. 389 – 398.
-N. Seifert, X. Zhu, and L. Massengill, “ Impact of Scaling on Soft-error Rates in Commercial Microprocessors,” Nuclear Science, IEEE Transactions on, vol. 49, no. 6, pp. 3100 – 3106, dec 2002.
-P. Liden, P. Dahlgren, R. Johansson, and J. Karlsson, “On Latching Probability of Particle Induced Transients in Combinational Networks,” in Fault-Tolerant Computing (FTCS). Digest of Papers from the Twenty-Fourth International Symposium on, jun 1994, pp. 340 –349.
-M. Baze and S. Buchner, “Attenuation of Single Event Induced Pulses in CMOS Combinational Logic,” Nuclear Science, IEEE Transactionson, vol. 44, no. 6, pp. 2217–2223, dec 1997.
-R. Ramanarayanan, V. Degalahal, R. Krishnan, J. Kim, V. Narayanan, Y. Xie, M. Irwin, and K. Unlu, “Modeling Soft Errors at the Device and Logic Levels for CombinationalCircuits,” Dependable and Secure Computing, IEEE Transactions on, vol. 6, no. 3, pp. 202 –216, july 2009.
-P. Shivakumar, M. Kistler, S. Keckler, D. Burger, and L. Alvisi, “Modeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic,” in Dependable Systems and Networks (DSN). Proceedings of the International Conference on, 2002, pp. 389 – 398.
-N. George and J. Lach, “Characterization of Logical Masking and Error Propagation in Combinational Circuits and Effects on System Vulnerability,” in Dependable Systems Networks (DSN), IEEE/IFIP 41st International Conference on, june 2011, pp. 323 –334.
-F. Wang, Y. Xie, R. Rajaraman, and B. Vaidyanathan, “ Soft Error Rate Analysis for Combinational Logic Using An Accurate Electrical Masking Model,” in VLSI Design,2007 (VLSID). 20th International Conference on, jan. 2007, pp. 165 –170.
-P. Shivakumar, M. Kistler, S. Keckler, D. Burger, and L. Alvisi, “Modeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic,” in Dependable Systems and Networks (DSN). Proceedings of the International Conference on, 2002, pp. 389 – 398.
-R. Rao, K. Chopra, D. Blaauw, and D. Sylvester, “An Efficient Static Algorithm for Computing the Soft Error Rates of Combinational Circuits,” in Design, Automation and Test in Europe(DATE). Proceedings of the, vol. 1, march 2006, pp. 1 –6.
-S. Krishnaswamy, I. L. Markov, and J. P. Hayes, “On the Role of Timing Masking in Reliable Logic Circuit Design,” in Design Automation Conference(DAC), Proceedings of the 45th annual. ACM, 2008, pp. 924–929.
-S. Krishnaswamy, I. L. Markov, and J. P. Hayes, “On the Role of Timing Masking in Reliable Logic Circuit Design,” in Design Automation Conference(DAC), Proceedings of the 45th annual. ACM, 2008, pp. 924–929.
-R. Rao, K. Chopra, D. Blaauw, and D. Sylvester, “ An Efficient Static Algorithm for Computing the Soft Error Rates of Combinational Circuits,” in Design, Automationand Test in Europe(DATE). Proceedings of the, vol. 1, march 2006, pp. 1 –6.
+РџРѕСЃРїРµР»РѕРІ Р”. Рђ. Р›РѕРіРёС‡РµСЃРєРёРµ РјРµС‚РѕРґС‹ Р°РЅР°Р»РёР·Р° Рё СЃРёРЅС‚РµР·Р° СЃС…РµРј./ РР·Рґ. 3-Рµ, РїРµСЂРµСЂР°Р±. Рё РґРѕРї. вЂ” Рњ.: Р­РЅРµСЂРіРёСЏ, 1974. вЂ” 368СЃ.
+P. Shivakumar, M. Kistler, S. Keckler, D. Burger, and L. Alvisi, вЂњModeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic,вЂќ in Dependable Systems and Networks (DSN). Proceedings of the International Conference on, 2002, pp. 389 вЂ“ 398.
+N. Seifert, X. Zhu, and L. Massengill, вЂњ Impact of Scaling on Soft-error Rates in Commercial Microprocessors,вЂќ Nuclear Science, IEEE Transactions on, vol. 49, no. 6, pp. 3100 вЂ“ 3106, dec 2002.
+P. Liden, P. Dahlgren, R. Johansson, and J. Karlsson, вЂњOn Latching Probability of Particle Induced Transients in Combinational Networks,вЂќ in Fault-Tolerant Computing (FTCS). Digest of Papers from the Twenty-Fourth International Symposium on, jun 1994, pp. 340 вЂ“349.
+M. Baze and S. Buchner, вЂњAttenuation of Single Event Induced Pulses in CMOS Combinational Logic,вЂќ Nuclear Science, IEEE Transactionson, vol. 44, no. 6, pp. 2217вЂ“2223, dec 1997.
+R. Ramanarayanan, V. Degalahal, R. Krishnan, J. Kim, V. Narayanan, Y. Xie, M. Irwin, and K. Unlu, вЂњModeling Soft Errors at the Device and Logic Levels for CombinationalCircuits,вЂќ Dependable and Secure Computing, IEEE Transactions on, vol. 6, no. 3, pp. 202 вЂ“216, july 2009.
+P. Shivakumar, M. Kistler, S. Keckler, D. Burger, and L. Alvisi, вЂњModeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic,вЂќ in Dependable Systems and Networks (DSN). Proceedings of the International Conference on, 2002, pp. 389 вЂ“ 398.
+N. George and J. Lach, вЂњCharacterization of Logical Masking and Error Propagation in Combinational Circuits and Effects on System Vulnerability,вЂќ in Dependable Systems Networks (DSN), IEEE/IFIP 41st International Conference on, june 2011, pp. 323 вЂ“334.
+F. Wang, Y. Xie, R. Rajaraman, and B. Vaidyanathan, вЂњ Soft Error Rate Analysis for Combinational Logic Using An Accurate Electrical Masking Model,вЂќ in VLSI Design,2007 (VLSID). 20th International Conference on, jan. 2007, pp. 165 вЂ“170.
+P. Shivakumar, M. Kistler, S. Keckler, D. Burger, and L. Alvisi, вЂњModeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic,вЂќ in Dependable Systems and Networks (DSN). Proceedings of the International Conference on, 2002, pp. 389 вЂ“ 398.
+R. Rao, K. Chopra, D. Blaauw, and D. Sylvester, вЂњAn Efficient Static Algorithm for Computing the Soft Error Rates of Combinational Circuits,вЂќ in Design, Automation and Test in Europe(DATE). Proceedings of the, vol. 1, march 2006, pp. 1 вЂ“6.
+S. Krishnaswamy, I. L. Markov, and J. P. Hayes, вЂњOn the Role of Timing Masking in Reliable Logic Circuit Design,вЂќ in Design Automation Conference(DAC), Proceedings of the 45th annual. ACM, 2008, pp. 924вЂ“929.
+S. Krishnaswamy, I. L. Markov, and J. P. Hayes, вЂњOn the Role of Timing Masking in Reliable Logic Circuit Design,вЂќ in Design Automation Conference(DAC), Proceedings of the 45th annual. ACM, 2008, pp. 924вЂ“929.
+R. Rao, K. Chopra, D. Blaauw, and D. Sylvester, вЂњ An Efficient Static Algorithm for Computing the Soft Error Rates of Combinational Circuits,вЂќ in Design, Automationand Test in Europe(DATE). Proceedings of the, vol. 1, march 2006, pp. 1 вЂ“6.
 George, N., Lacj, J. and Brown, C.L. Characterization of logical masking and error propagation in combinational circuits and effects on system vulnerability. 2011 International Conference on Dependable Systems and Networks, Hong Kong, China.
-J. von Neumann, “Probabilistic logics and the synthesis of reliable organisms from unreliable components,” in Automata Studies, C. E. Shannon and J. McCarthy, Eds. Princeton, NJ: Princeton Univ. Press, 1956, pp. 43–98.
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Соловьев А.Н., Мячиков М.В. Моделирование возникновения  неисправностей для оценки надежностных характеристик логических схем  // Информационные технологии. 2014. № 11. С. 30-36.
-Тельпухов Д.В., Соловьев Р.А., Мячиков М.В. Разработка практических метрик для оценки методов повышения сбоеустойчивости комбинационных схем // В сборнике: Информационные технологии и математическое моделирование систем 2015 Труды международной научно-технической конференции. Москва, 2015. С. 79-81.
+J. von Neumann, вЂњProbabilistic logics and the synthesis of reliable organisms from unreliable components,вЂќ in Automata Studies, C. E. Shannon and J. McCarthy, Eds. Princeton, NJ: Princeton Univ. Press, 1956, pp. 43вЂ“98.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РЎРѕР»РѕРІСЊРµРІ Рђ.Рќ., РњСЏС‡РёРєРѕРІ Рњ.Р’. РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ РІРѕР·РЅРёРєРЅРѕРІРµРЅРёСЏ  РЅРµРёСЃРїСЂР°РІРЅРѕСЃС‚РµР№ РґР»СЏ РѕС†РµРЅРєРё РЅР°РґРµР¶РЅРѕСЃС‚РЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј  // РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2014. в„– 11. РЎ. 30-36.
+РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РњСЏС‡РёРєРѕРІ Рњ.Р’. Р Р°Р·СЂР°Р±РѕС‚РєР° РїСЂР°РєС‚РёС‡РµСЃРєРёС… РјРµС‚СЂРёРє РґР»СЏ РѕС†РµРЅРєРё РјРµС‚РѕРґРѕРІ РїРѕРІС‹С€РµРЅРёСЏ СЃР±РѕРµСѓСЃС‚РѕР№С‡РёРІРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… СЃС…РµРј // Р’ СЃР±РѕСЂРЅРёРєРµ: РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё Рё РјР°С‚РµРјР°С‚РёС‡РµСЃРєРѕРµ РјРѕРґРµР»РёСЂРѕРІР°РЅРёРµ СЃРёСЃС‚РµРј 2015 РўСЂСѓРґС‹ РјРµР¶РґСѓРЅР°СЂРѕРґРЅРѕР№ РЅР°СѓС‡РЅРѕ-С‚РµС…РЅРёС‡РµСЃРєРѕР№ РєРѕРЅС„РµСЂРµРЅС†РёРё. РњРѕСЃРєРІР°, 2015. РЎ. 79-81.
 Ai Quoc Dao, Mark Po-Hung Lin, Alan Mishchenko SAT-Based Fault Equivalence Checking in Functional Safety Verification // IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-Rezaei S, Miremadi SG, Asadi H, Fazeli M. Soft error estimation and mitigation of digital circuits by characterizing input patterns of logic gates. Microelectron Reliab 2014;54(6–7):1412–20. 
-M. Raji, H. Pedram, B. Ghavami, A practical metric for soft error vulnerability analysis of combinational circuits. Microelectron Reliab 2015;55:448–460.
-G. Bany Hamad et al. Characterizing, modeling, and analyzing soft error propagation in asynchronous and synchronous digital circuits. Microelectronics Reliability 55 (2015) 238–250
-Asadi H, Tahoori MB, Fazeli M, Miremadi SG. Efficient algorithms to accurately compute derating factors of digital circuits. Microelectron Reliab 2012;52(6):1215–26.
-Han J, Gao J, Qi Y, Jonker PP, Fortes JAB. Toward hardware-redundant, fault tolerant logic for nanoelectronics. IEEE Des Test Comput 2005;22(4):328–39
-N. George and J. Lach, “Characterization of logical masking and error propagation in combinational circuits and effects on system vulnerability,” in Dependable Systems Networks (DSN), 2011 IEEE/IFIP 41st International Conference on, 2011, pp. 323-334.
-L.H. Goldstein: Controllability/observability analysis of digital circuits. IEEE Trans. Circuit & Syst. CAS-26, 685–695 (1979)
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405
-Patel KN, Markov IL, Hayes JP. Evaluating circuit reliability under probabilistic gate-level fault models. In: Int workshop on logic and synthesis (IWLS), 2003. p. 59–64.
-Krishnaswamy S, Viamonte GF, Markov IL, Hayes JP. Accurate reliability evaluation and enhancement via probabilistic transfer matrices. In: Proc of design automation and test in Europe (DATE 2005), Munich, Germany, March 2005. p. 282–7
-Krishnaswamy S, Markov IL, Hayes JP. Tracking uncertainty with probabilistic logic circuit testing. IEEE Des Test Comput 2007;24(4):312–21.
+Rezaei S, Miremadi SG, Asadi H, Fazeli M. Soft error estimation and mitigation of digital circuits by characterizing input patterns of logic gates. Microelectron Reliab 2014;54(6вЂ“7):1412вЂ“20. 
+M. Raji, H. Pedram, B. Ghavami, A practical metric for soft error vulnerability analysis of combinational circuits. Microelectron Reliab 2015;55:448вЂ“460.
+G. Bany Hamad et al. Characterizing, modeling, and analyzing soft error propagation in asynchronous and synchronous digital circuits. Microelectronics Reliability 55 (2015) 238вЂ“250
+Asadi H, Tahoori MB, Fazeli M, Miremadi SG. Efficient algorithms to accurately compute derating factors of digital circuits. Microelectron Reliab 2012;52(6):1215вЂ“26.
+Han J, Gao J, Qi Y, Jonker PP, Fortes JAB. Toward hardware-redundant, fault tolerant logic for nanoelectronics. IEEE Des Test Comput 2005;22(4):328вЂ“39
+N. George and J. Lach, вЂњCharacterization of logical masking and error propagation in combinational circuits and effects on system vulnerability,вЂќ in Dependable Systems Networks (DSN), 2011 IEEE/IFIP 41st International Conference on, 2011, pp. 323-334.
+L.H. Goldstein: Controllability/observability analysis of digital circuits. IEEE Trans. Circuit & Syst. CAS-26, 685вЂ“695 (1979)
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405
+Patel KN, Markov IL, Hayes JP. Evaluating circuit reliability under probabilistic gate-level fault models. In: Int workshop on logic and synthesis (IWLS), 2003. p. 59вЂ“64.
+Krishnaswamy S, Viamonte GF, Markov IL, Hayes JP. Accurate reliability evaluation and enhancement via probabilistic transfer matrices. In: Proc of design automation and test in Europe (DATE 2005), Munich, Germany, March 2005. p. 282вЂ“7
+Krishnaswamy S, Markov IL, Hayes JP. Tracking uncertainty with probabilistic logic circuit testing. IEEE Des Test Comput 2007;24(4):312вЂ“21.
 Krishnaswamy S, Viamontes GF, Markov IL, Hayes JP. Probabilistic transfer matrices in symbolic reliability analysis of logic circuits. ACM Trans Des Automation Electr Syst 2008;13(1) [Article 8].
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405.
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405.
-Franco DT, Vasconcelos MC, Naviner L, Naviner J-F. Signal probability for reliability evaluation of logic circuits. Microelectron Reliab 2008;48(8–9):1586–91.
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405.
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405.
+Franco DT, Vasconcelos MC, Naviner L, Naviner J-F. Signal probability for reliability evaluation of logic circuits. Microelectron Reliab 2008;48(8вЂ“9):1586вЂ“91.
 S. Nascimento Pagliarini, D. Teixeira Franco, L. Alves de Barros Naviner and J.-F. Naviner, Reliability estimation methods: Tradeoffs between complexity and accuracy, Southern Simposium of Microelectronics, Sao Miguel das Missoes, RS, Brazil, April 2012.
-Han J, Chen H, Boykin E, Fortes J. Reliability evaluation of logic circuits using probabilistic gate models. Microelectronics Reliability 2011;51(2):468–76.
-V.H. Vaghef A. Peiravi, Node-to-node error sensitivity analysis using a graph based approach for VLSI logic circuits Microelectronics Reliability 2015;55: 264–271
-de Vasconcelos MC, Franco DT, Naviner LA, Naviner JF. Relevant metrics for evaluation of concurrent error detection schemes. Microelectron Reliab 2008;48(8):1601–3. http://dx.doi.org/10.1016/j.microrel.2008.07.016.
-T. An, K. Liu, H. Cai and L. Alves de Barros Naviner, Accurate Reliability Analysis of Concurrent Checking Circuits Employing An Efficient Analytical Method, Microelectronics Reliability, January 2015, vol. 55, n° 3-4, pp. 696-703
-Spainhower, L. and T. A. Gregg, “S/390 Parallel Enterprise Server G5 fault tolerance,” IBM Journal of Research Development, Vol. 43, pp. 863-873, Sept./Nov. 1999.
-Webb, C. F., and J. S. Liptay, “A High Frequency Custom S/390 Microprocessor,” IBM Journal Res. and Dev., Vol. 41, No. 4/5, pp. 463-474, 1997.
+Han J, Chen H, Boykin E, Fortes J. Reliability evaluation of logic circuits using probabilistic gate models. Microelectronics Reliability 2011;51(2):468вЂ“76.
+V.H. Vaghef A. Peiravi, Node-to-node error sensitivity analysis using a graph based approach for VLSI logic circuits Microelectronics Reliability 2015;55: 264вЂ“271
+de Vasconcelos MC, Franco DT, Naviner LA, Naviner JF. Relevant metrics for evaluation of concurrent error detection schemes. Microelectron Reliab 2008;48(8):1601вЂ“3. http://dx.doi.org/10.1016/j.microrel.2008.07.016.
+T. An, K. Liu, H. Cai and L. Alves de Barros Naviner, Accurate Reliability Analysis of Concurrent Checking Circuits Employing An Efficient Analytical Method, Microelectronics Reliability, January 2015, vol. 55, nВ° 3-4, pp. 696-703
+Spainhower, L. and T. A. Gregg, вЂњS/390 Parallel Enterprise Server G5 fault tolerance,вЂќ IBM Journal of Research Development, Vol. 43, pp. 863-873, Sept./Nov. 1999.
+Webb, C. F., and J. S. Liptay, вЂњA High Frequency Custom S/390 Microprocessor,вЂќ IBM Journal Res. and Dev., Vol. 41, No. 4/5, pp. 463-474, 1997.
 Pradhan, D. K., Fault-Tolerant Computer System Design, Prentice Hall, 1996.
-Применение кодов Бергера и Хэмминга в схемах функционального контроля /  Вал.В. Сапожников [и др.] // Известия Петербургского университета путей сообщения. – 2013. - №2 (35). - C. 168 - 182;
-Hsiao, M-Y, W. C. Carter, J. W. Thomas andW. R. Stringfellow, “Reliability, Availability andServiceability of IBM Computer Systems: A QuarterCentury of Progress,” IBM Journal of Research andDevelopment, Vol. 25, No. 5, pp. 453-469, Sept. 1981.
-[Spainhower 99] Spainhower, L. and T. A. Gregg, “S/390Parallel Enterprise Server G5 fault tolerance,” IBMJournal of Research Development, Vol. 43, pp. 863-873,Sept./Nov. 1999.
-[Webb 97] Webb, C. F., and J. S. Liptay, “A HighFrequency Custom S/390 Microprocessor,” IBM JournalRes. and Dev., Vol. 41, No. 4/5, pp. 463-474, 1997.
-Ramamoorthy, C. V. and Y-W Han,“Reliability Analysis of Systems with Concurrent ErrorDetection,” IEEE Trans. Computers, Vol. C-24, No. 9,pp. 868-878, Sept. 1975.
-McCluskey, Edward J. Which concurrent error detection scheme to choose? / Edward J. McCluskey,  Mitra Subhasish // Center for Reliable Computing, Stanford University. – 2000. – http://crc.stanford.edu;
+РџСЂРёРјРµРЅРµРЅРёРµ РєРѕРґРѕРІ Р‘РµСЂРіРµСЂР° Рё РҐСЌРјРјРёРЅРіР° РІ СЃС…РµРјР°С… С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ /  Р’Р°Р».Р’. РЎР°РїРѕР¶РЅРёРєРѕРІ [Рё РґСЂ.] // РР·РІРµСЃС‚РёСЏ РџРµС‚РµСЂР±СѓСЂРіСЃРєРѕРіРѕ СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р° РїСѓС‚РµР№ СЃРѕРѕР±С‰РµРЅРёСЏ. вЂ“ 2013. - в„–2 (35). - C. 168 - 182;
+Hsiao, M-Y, W. C. Carter, J. W. Thomas andW. R. Stringfellow, вЂњReliability, Availability andServiceability of IBM Computer Systems: A QuarterCentury of Progress,вЂќ IBM Journal of Research andDevelopment, Vol. 25, No. 5, pp. 453-469, Sept. 1981.
+[Spainhower 99] Spainhower, L. and T. A. Gregg, вЂњS/390Parallel Enterprise Server G5 fault tolerance,вЂќ IBMJournal of Research Development, Vol. 43, pp. 863-873,Sept./Nov. 1999.
+[Webb 97] Webb, C. F., and J. S. Liptay, вЂњA HighFrequency Custom S/390 Microprocessor,вЂќ IBM JournalRes. and Dev., Vol. 41, No. 4/5, pp. 463-474, 1997.
+Ramamoorthy, C. V. and Y-W Han,вЂњReliability Analysis of Systems with Concurrent ErrorDetection,вЂќ IEEE Trans. Computers, Vol. C-24, No. 9,pp. 868-878, Sept. 1975.
+McCluskey, Edward J. Which concurrent error detection scheme to choose? / Edward J. McCluskey,  Mitra Subhasish // Center for Reliable Computing, Stanford University. вЂ“ 2000. вЂ“ http://crc.stanford.edu;
 Sellers, F., M-Y Hsiao and L. W. Bearnson, Error Detection Logic for Digital Computers, McGrawHill Book Company, 1968. 
 Kraft, G. D. and W. N. Toy, Microprogrammed Control and Reliable Design of Small Computers, 1981.
-Sedmak, R. M. and H. L. Liebergot, “Fault Toleranceof a General-Purpose Computer Implementedby Very Large Scale Integration,” Proc. FTCS, pp. 137-143, 1978.
+Sedmak, R. M. and H. L. Liebergot, вЂњFault Toleranceof a General-Purpose Computer Implementedby Very Large Scale Integration,вЂќ Proc. FTCS, pp. 137-143, 1978.
 Kraft, G. D. and W. N. Toy, Microprogrammed Control and Reliable Design of Small Computers, 1981.
 Pradhan, D. K., Fault-Tolerant Computer System Design, Prentice Hall, 1996
-Webb, C. F., and J. S. Liptay, “A High Frequency Custom S/390 Microprocessor,” IBM Journal Res. and Dev., Vol. 41, No. 4/5, pp. 463-474, 1997.
-Spainhower, L. and T. A. Gregg, “S/390 Parallel Enterprise Server G5 fault tolerance,” IBM Journal of Research Development, Vol. 43, pp. 863-873, Sept./Nov. 1999.
-Mitra, S., N. R. Saxena and E. J. McCluskey, “Common-Mode Failures in Redundant VLSI Systems: A Survey,” IEEE Trans. Reliability, 2000.
-McCluskey, E. J., “Design techniques forTestable Embedded Error Checkers,” IEEE Computer,Vol. 23, No. 7, pp. 84-88, July 1990.
-Touba, N. A. and E. J. McCluskey, “LogicSynthesis of Multilevel Circuits with Concurrent ErrorDetection,” IEEE Trans. CAD, Vol. 16, pp. 783-789,July 1997. 
-Nicolaidis, M., R. O. Duarte, S. Manichand J. Figueras, “Fault-secure Parity PredictionArithmetic Operators,” IEEE Design and Test ofComputers, Vol. 14, No. 2, pp. 60-71, 1997.
-De, K., C. Natarajan, D. Nair and P. Banerjee,“RSYN: A System for Automated Synthesis of ReliableMultilevel Circuits,” IEEE Trans. VLSI, Vol. 2, pp.186-195, June 1994.
-Zeng, C., N. R. Saxena and E. J. McCluskey,“Finite State Machine Synthesis with Concurrent ErrorDetection,” Proc. Intl. Test Conf., pp. 672-680, 1999.
-Berger, J. M., “A Note on Error DetectionCodes for Asymmetric Channels,” Information andControl, Vol. 4, pp. 68-73, 1961.
-Bose, B. and D. J. Lin, “SystematicUnidirectional Error-Detecting Codes,
-Jha, N. K. and S. J. Wang, “Design and Synthesis of Self-Checking VLSI Circuits,” IEEE Trans. CAD, Vol. 12, pp. 878-887, June 1993.
+Webb, C. F., and J. S. Liptay, вЂњA High Frequency Custom S/390 Microprocessor,вЂќ IBM Journal Res. and Dev., Vol. 41, No. 4/5, pp. 463-474, 1997.
+Spainhower, L. and T. A. Gregg, вЂњS/390 Parallel Enterprise Server G5 fault tolerance,вЂќ IBM Journal of Research Development, Vol. 43, pp. 863-873, Sept./Nov. 1999.
+Mitra, S., N. R. Saxena and E. J. McCluskey, вЂњCommon-Mode Failures in Redundant VLSI Systems: A Survey,вЂќ IEEE Trans. Reliability, 2000.
+McCluskey, E. J., вЂњDesign techniques forTestable Embedded Error Checkers,вЂќ IEEE Computer,Vol. 23, No. 7, pp. 84-88, July 1990.
+Touba, N. A. and E. J. McCluskey, вЂњLogicSynthesis of Multilevel Circuits with Concurrent ErrorDetection,вЂќ IEEE Trans. CAD, Vol. 16, pp. 783-789,July 1997. 
+Nicolaidis, M., R. O. Duarte, S. Manichand J. Figueras, вЂњFault-secure Parity PredictionArithmetic Operators,вЂќ IEEE Design and Test ofComputers, Vol. 14, No. 2, pp. 60-71, 1997.
+De, K., C. Natarajan, D. Nair and P. Banerjee,вЂњRSYN: A System for Automated Synthesis of ReliableMultilevel Circuits,вЂќ IEEE Trans. VLSI, Vol. 2, pp.186-195, June 1994.
+Zeng, C., N. R. Saxena and E. J. McCluskey,вЂњFinite State Machine Synthesis with Concurrent ErrorDetection,вЂќ Proc. Intl. Test Conf., pp. 672-680, 1999.
+Berger, J. M., вЂњA Note on Error DetectionCodes for Asymmetric Channels,вЂќ Information andControl, Vol. 4, pp. 68-73, 1961.
+Bose, B. and D. J. Lin, вЂњSystematicUnidirectional Error-Detecting Codes,
+Jha, N. K. and S. J. Wang, вЂњDesign and Synthesis of Self-Checking VLSI Circuits,вЂќ IEEE Trans. CAD, Vol. 12, pp. 878-887, June 1993.
 W.H. Pierce, Failure-Tolerant Computer Design, Academic Press, USA, 1965.
-J.G. Tryon, “Quadded logic,” in R.H. Wilcox and W.C. Mann (Eds.), Redundancy Techniques for Computing Systems, Spartan Books, pp. 205-228, 1962.
-A.H. El-Maleh, B.M. Al-Hashimi, A. Melouki, F. Khan, “Defecttolerant N2 -transistor structure for reliable nanoelectronic designs,” IET Computers and Digital Techniques, vol. 3, no. 6, pp. 570-580, November 2009. 
-J. Han, E. Leung, L. Liu, F. Lombardi, “A fault-tolerant technique using quadded logic and quadded transistors,” IEEE Transactions on VLSI Systems, vol. 23, no. 8, pp. 1562-1566, August 2015.
-Sobeeh Almukhaizim and Yiorgos Makris, “Fault Tolerant Design of Random Logic based on a Parity Check Code”, Electrical Engineering Department Yale University
-El-Maleha A. H., Oughalia F. C., A generalized modular redundancy scheme for enhancing fault tolerance of combinational circuits / Microelectronics Reliability, vol. 54, №1, 2014, 316–326 pp.
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Соловьев А.Н., Мячиков М.В. Моделирование возникновения неисправностей для оценки надежностных характеристик логических схем // Информационные технологии. 2014. № 11. С. 30-36.
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405.
-Тельпухов Д.В., Соловьев Р.А., Мячиков М.В. Разработка практических метрик для оценки методов повышения сбоеустойчивости комбинационных схем // В сборнике: Информационные технологии и математическое моделирование систем 2015 Труды международной научно-технической конференции. 2015. С. 79-81.
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Мячиков М.В., Тельпухова Н.В. Разработка технологически независимых метрик для оценки маскирующих свойств логических схем // Вычислительные технологии. 2016. Т. 21. № 2. С. 53-62.
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405
+J.G. Tryon, вЂњQuadded logic,вЂќ in R.H. Wilcox and W.C. Mann (Eds.), Redundancy Techniques for Computing Systems, Spartan Books, pp. 205-228, 1962.
+A.H. El-Maleh, B.M. Al-Hashimi, A. Melouki, F. Khan, вЂњDefecttolerant N2 -transistor structure for reliable nanoelectronic designs,вЂќ IET Computers and Digital Techniques, vol. 3, no. 6, pp. 570-580, November 2009. 
+J. Han, E. Leung, L. Liu, F. Lombardi, вЂњA fault-tolerant technique using quadded logic and quadded transistors,вЂќ IEEE Transactions on VLSI Systems, vol. 23, no. 8, pp. 1562-1566, August 2015.
+Sobeeh Almukhaizim and Yiorgos Makris, вЂњFault Tolerant Design of Random Logic based on a Parity Check CodeвЂќ, Electrical Engineering Department Yale University
+El-Maleha A. H., Oughalia F. C., A generalized modular redundancy scheme for enhancing fault tolerance of combinational circuits / Microelectronics Reliability, vol. 54, в„–1, 2014, 316вЂ“326 pp.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РЎРѕР»РѕРІСЊРµРІ Рђ.Рќ., РњСЏС‡РёРєРѕРІ Рњ.Р’. РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ РІРѕР·РЅРёРєРЅРѕРІРµРЅРёСЏ РЅРµРёСЃРїСЂР°РІРЅРѕСЃС‚РµР№ РґР»СЏ РѕС†РµРЅРєРё РЅР°РґРµР¶РЅРѕСЃС‚РЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј // РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2014. в„– 11. РЎ. 30-36.
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405.
+РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РњСЏС‡РёРєРѕРІ Рњ.Р’. Р Р°Р·СЂР°Р±РѕС‚РєР° РїСЂР°РєС‚РёС‡РµСЃРєРёС… РјРµС‚СЂРёРє РґР»СЏ РѕС†РµРЅРєРё РјРµС‚РѕРґРѕРІ РїРѕРІС‹С€РµРЅРёСЏ СЃР±РѕРµСѓСЃС‚РѕР№С‡РёРІРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… СЃС…РµРј // Р’ СЃР±РѕСЂРЅРёРєРµ: РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё Рё РјР°С‚РµРјР°С‚РёС‡РµСЃРєРѕРµ РјРѕРґРµР»РёСЂРѕРІР°РЅРёРµ СЃРёСЃС‚РµРј 2015 РўСЂСѓРґС‹ РјРµР¶РґСѓРЅР°СЂРѕРґРЅРѕР№ РЅР°СѓС‡РЅРѕ-С‚РµС…РЅРёС‡РµСЃРєРѕР№ РєРѕРЅС„РµСЂРµРЅС†РёРё. 2015. РЎ. 79-81.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РњСЏС‡РёРєРѕРІ Рњ.Р’., РўРµР»СЊРїСѓС…РѕРІР° Рќ.Р’. Р Р°Р·СЂР°Р±РѕС‚РєР° С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРё РЅРµР·Р°РІРёСЃРёРјС‹С… РјРµС‚СЂРёРє РґР»СЏ РѕС†РµРЅРєРё РјР°СЃРєРёСЂСѓСЋС‰РёС… СЃРІРѕР№СЃС‚РІ Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј // Р’С‹С‡РёСЃР»РёС‚РµР»СЊРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2016. Рў. 21. в„– 2. РЎ. 53-62.
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405
 Stempkovskiy A.L, Telpukhov D.V., Solovyev R.A., Naviner L., Myachikov M.V. Practical Metrics for Evaluation of Fault-Tolerant Logic Design // 2017 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), pp. 569-573
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405
-M. Raji, H. Pedram, B. Ghavami, A practical metric for soft error vulnerability analysis of combinational circuits. Microelectron Reliab 2015;55:448–460
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Мячиков М.В. Методы повышения производительности вычислений при расчете метрик надежности комбинационных логических схем // Вычислительные технологии. 2016. Т. 21. № 6. С. 104-112.
-Han J, Chen H, Boykin E, Fortes J. Reliability evaluation of logic circuits using probabilistic gate models. Microelectronics Reliability 2011;51(2):468–76.
-Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392–405
-Тельпухов Д.В., Соловьев Р.А., Тельпухова Н.В., Щелоков А.Н. Оценка параметра логической чувствительности комбинационной схемы к однократным ошибкам с помощью вероятностных методов // Известия ЮФУ. Технические науки. 2016. № 7 (180). С. 149-158.
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Тельпухова Н.В. Исследование вероятностных методов оценки логической уязвимости комбинационных схем // Проблемы разработки перспективных микро- и наноэлектронных систем (МЭС). 2016. № 4. С. 121-126.
-Р.А. Соловьев, Д.В. Тельпухов, Г.А. Иванова, А.Н. Щелоков Исследование вероятностных методов оценки надежности логических схем // Труды конгресса по интеллектуальным системам и информационным технологиям. 2016. Т. 1, С. 90-97
-Stempkovskiy A.L., Telpukhov D.V., Soloviev R.A., Telpukhova N.V. Probabilistic Methods for Combinational Circuits Reliability Evaluation // Проблемы разработки перспективных микро- и наноэлектронных систем (МЭС). 2017. № 4. С. 41-44.
-Smita Krishnaswamy, Stephen M. Plaza, Igor L. Markov, and John P. Hayes, “Enhancing Design Robustness with Reliabilityaware Resynthesis and Logic Simulation,” IWLS, 2007.
-S. B. Akers, C. Joseph, and B. Krishnamurthy, “On the Role of Independent Fault Sets in the Generation of Minimal Test Sets", Proc. Int. Test Conf., pp. 1100-1107, August 1987.
-Prasad, A.V.S.S., Agrawal, V.D., Atre, M.V.: A new algorithm for global fault collapsing into equivalence and dominance sets. In: Proceedings of ITC, pp. 391–397, October 2002
-Тельпухов Д.В., Соловьев Р.А. Метод поиска эквивалентных ошибок в логических схемах // Информационные технологии. 2017. Т. 23. № 8. С. 575-582.
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405
+M. Raji, H. Pedram, B. Ghavami, A practical metric for soft error vulnerability analysis of combinational circuits. Microelectron Reliab 2015;55:448вЂ“460
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РњСЏС‡РёРєРѕРІ Рњ.Р’. РњРµС‚РѕРґС‹ РїРѕРІС‹С€РµРЅРёСЏ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё РІС‹С‡РёСЃР»РµРЅРёР№ РїСЂРё СЂР°СЃС‡РµС‚Рµ РјРµС‚СЂРёРє РЅР°РґРµР¶РЅРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј // Р’С‹С‡РёСЃР»РёС‚РµР»СЊРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2016. Рў. 21. в„– 6. РЎ. 104-112.
+Han J, Chen H, Boykin E, Fortes J. Reliability evaluation of logic circuits using probabilistic gate models. Microelectronics Reliability 2011;51(2):468вЂ“76.
+Choudhury MR, Mohanram K. Reliability analysis of logic circuits. IEEE Trans CAD 2009;28(3):392вЂ“405
+РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РўРµР»СЊРїСѓС…РѕРІР° Рќ.Р’., Р©РµР»РѕРєРѕРІ Рђ.Рќ. РћС†РµРЅРєР° РїР°СЂР°РјРµС‚СЂР° Р»РѕРіРёС‡РµСЃРєРѕР№ С‡СѓРІСЃС‚РІРёС‚РµР»СЊРЅРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅРѕР№ СЃС…РµРјС‹ Рє РѕРґРЅРѕРєСЂР°С‚РЅС‹Рј РѕС€РёР±РєР°Рј СЃ РїРѕРјРѕС‰СЊСЋ РІРµСЂРѕСЏС‚РЅРѕСЃС‚РЅС‹С… РјРµС‚РѕРґРѕРІ // РР·РІРµСЃС‚РёСЏ Р®Р¤РЈ. РўРµС…РЅРёС‡РµСЃРєРёРµ РЅР°СѓРєРё. 2016. в„– 7 (180). РЎ. 149-158.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РўРµР»СЊРїСѓС…РѕРІР° Рќ.Р’. РСЃСЃР»РµРґРѕРІР°РЅРёРµ РІРµСЂРѕСЏС‚РЅРѕСЃС‚РЅС‹С… РјРµС‚РѕРґРѕРІ РѕС†РµРЅРєРё Р»РѕРіРёС‡РµСЃРєРѕР№ СѓСЏР·РІРёРјРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… СЃС…РµРј // РџСЂРѕР±Р»РµРјС‹ СЂР°Р·СЂР°Р±РѕС‚РєРё РїРµСЂСЃРїРµРєС‚РёРІРЅС‹С… РјРёРєСЂРѕ- Рё РЅР°РЅРѕСЌР»РµРєС‚СЂРѕРЅРЅС‹С… СЃРёСЃС‚РµРј (РњР­РЎ). 2016. в„– 4. РЎ. 121-126.
+Р .Рђ. РЎРѕР»РѕРІСЊРµРІ, Р”.Р’. РўРµР»СЊРїСѓС…РѕРІ, Р“.Рђ. РРІР°РЅРѕРІР°, Рђ.Рќ. Р©РµР»РѕРєРѕРІ РСЃСЃР»РµРґРѕРІР°РЅРёРµ РІРµСЂРѕСЏС‚РЅРѕСЃС‚РЅС‹С… РјРµС‚РѕРґРѕРІ РѕС†РµРЅРєРё РЅР°РґРµР¶РЅРѕСЃС‚Рё Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј // РўСЂСѓРґС‹ РєРѕРЅРіСЂРµСЃСЃР° РїРѕ РёРЅС‚РµР»Р»РµРєС‚СѓР°Р»СЊРЅС‹Рј СЃРёСЃС‚РµРјР°Рј Рё РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рј С‚РµС…РЅРѕР»РѕРіРёСЏРј. 2016. Рў. 1, РЎ. 90-97
+Stempkovskiy A.L., Telpukhov D.V., Soloviev R.A., Telpukhova N.V. Probabilistic Methods for Combinational Circuits Reliability Evaluation // РџСЂРѕР±Р»РµРјС‹ СЂР°Р·СЂР°Р±РѕС‚РєРё РїРµСЂСЃРїРµРєС‚РёРІРЅС‹С… РјРёРєСЂРѕ- Рё РЅР°РЅРѕСЌР»РµРєС‚СЂРѕРЅРЅС‹С… СЃРёСЃС‚РµРј (РњР­РЎ). 2017. в„– 4. РЎ. 41-44.
+Smita Krishnaswamy, Stephen M. Plaza, Igor L. Markov, and John P. Hayes, вЂњEnhancing Design Robustness with Reliabilityaware Resynthesis and Logic Simulation,вЂќ IWLS, 2007.
+S. B. Akers, C. Joseph, and B. Krishnamurthy, вЂњOn the Role of Independent Fault Sets in the Generation of Minimal Test Sets", Proc. Int. Test Conf., pp. 1100-1107, August 1987.
+Prasad, A.V.S.S., Agrawal, V.D., Atre, M.V.: A new algorithm for global fault collapsing into equivalence and dominance sets. In: Proceedings of ITC, pp. 391вЂ“397, October 2002
+РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ. РњРµС‚РѕРґ РїРѕРёСЃРєР° СЌРєРІРёРІР°Р»РµРЅС‚РЅС‹С… РѕС€РёР±РѕРє РІ Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРјР°С… // РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2017. Рў. 23. в„– 8. РЎ. 575-582.
 Brayton R., Mishchenko A. (2010) ABC: An Academic Industrial-Strength Verification Tool. In: Touili T., Cook B., Jackson P. (eds) Computer Aided Verification. CAV 2010. Lecture Notes in Computer Science, vol 6174. Springer, Berlin, Heidelberg
-Морелос-Сарагоса Р. Искусство помехоустойчивого кодирования. Методы, алгоритмы, применение // М.: Техносфера, 2006, 320 с.
-Амербаев В.М., Корнилов А.И., Стемпковский А.Л. Модулярная логарифметика - новые возможности для проектирования модулярных вычислителей и преобразователей // Проблемы разработки перспективных микро- и наноэлектронных систем (МЭС), том 1, С. 368-373, 2010. 
-El-Maleha A. H., Oughalia F. C. A generalized modular redundancy scheme for enhancing fault tolerance of combinational circuits // Microelectronics Reliability, vol. 54, №1, P. 316–326, 2014.
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Мячиков М.В. Повышение отказоустойчивости логических схем с использованием нестандартных мажоритарных элементов // Информационные технологии. 2015. Т. 21. № 10. С. 749-756.
-Родзин С.И., Курейчик В.В. ТЕОРЕТИЧЕСКИЕ ВОПРОСЫ И СОВРЕМЕННЫЕ ПРОБЛЕМЫ РАЗВИТИЯ КОГНИТИВНЫХ БИОИНСПИРИРОВАННЫХ АЛГОРИТМОВ ОПТИМИЗАЦИИ (ОБЗОР) // Кибернетика и программирование. 2017. № 3. С. 51-79.
+РњРѕСЂРµР»РѕСЃ-РЎР°СЂР°РіРѕСЃР° Р . РСЃРєСѓСЃСЃС‚РІРѕ РїРѕРјРµС…РѕСѓСЃС‚РѕР№С‡РёРІРѕРіРѕ РєРѕРґРёСЂРѕРІР°РЅРёСЏ. РњРµС‚РѕРґС‹, Р°Р»РіРѕСЂРёС‚РјС‹, РїСЂРёРјРµРЅРµРЅРёРµ // Рњ.: РўРµС…РЅРѕСЃС„РµСЂР°, 2006, 320 СЃ.
+РђРјРµСЂР±Р°РµРІ Р’.Рњ., РљРѕСЂРЅРёР»РѕРІ Рђ.Р., РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›. РњРѕРґСѓР»СЏСЂРЅР°СЏ Р»РѕРіР°СЂРёС„РјРµС‚РёРєР° - РЅРѕРІС‹Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РґР»СЏ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ РјРѕРґСѓР»СЏСЂРЅС‹С… РІС‹С‡РёСЃР»РёС‚РµР»РµР№ Рё РїСЂРµРѕР±СЂР°Р·РѕРІР°С‚РµР»РµР№ // РџСЂРѕР±Р»РµРјС‹ СЂР°Р·СЂР°Р±РѕС‚РєРё РїРµСЂСЃРїРµРєС‚РёРІРЅС‹С… РјРёРєСЂРѕ- Рё РЅР°РЅРѕСЌР»РµРєС‚СЂРѕРЅРЅС‹С… СЃРёСЃС‚РµРј (РњР­РЎ), С‚РѕРј 1, РЎ. 368-373, 2010. 
+El-Maleha A. H., Oughalia F. C. A generalized modular redundancy scheme for enhancing fault tolerance of combinational circuits // Microelectronics Reliability, vol. 54, в„–1, P. 316вЂ“326, 2014.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РњСЏС‡РёРєРѕРІ Рњ.Р’. РџРѕРІС‹С€РµРЅРёРµ РѕС‚РєР°Р·РѕСѓСЃС‚РѕР№С‡РёРІРѕСЃС‚Рё Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РЅРµСЃС‚Р°РЅРґР°СЂС‚РЅС‹С… РјР°Р¶РѕСЂРёС‚Р°СЂРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ // РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2015. Рў. 21. в„– 10. РЎ. 749-756.
+Р РѕРґР·РёРЅ РЎ.Р., РљСѓСЂРµР№С‡РёРє Р’.Р’. РўР•РћР Р•РўРР§Р•РЎРљРР• Р’РћРџР РћРЎР« Р РЎРћР’Р Р•РњР•РќРќР«Р• РџР РћР‘Р›Р•РњР« Р РђР—Р’РРўРРЇ РљРћР“РќРРўРР’РќР«РҐ Р‘РРћРРќРЎРџРР РР РћР’РђРќРќР«РҐ РђР›Р“РћР РРўРњРћР’ РћРџРўРРњРР—РђР¦РР (РћР‘Р—РћР ) // РљРёР±РµСЂРЅРµС‚РёРєР° Рё РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ. 2017. в„– 3. РЎ. 51-79.
 Coello, C.A., Christiansen, A.D., Aguirre, A.H.: Use of Evolutionary Techniques to Automate the Design of Combinational Circuits. International Journal of Smart Engineering System Design (2000)
-Стемпковский А.Л., Тельпухов Д.В., Жукова Т.Д., Гуров С.И., Соловьев Р.А. МЕТОДЫ СИНТЕЗА СБОЕУСТОЙЧИВЫХ КОМБИНАЦИОННЫХ КМОП СХЕМ, ОБЕСПЕЧИВАЮЩИХ АВТОМАТИЧЕСКОЕ ИСПРАВЛЕНИЕ ОШИБОК // Известия ЮФУ. Технические науки. 2017. № 7 (192). С. 197-210.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., Р–СѓРєРѕРІР° Рў.Р”., Р“СѓСЂРѕРІ РЎ.Р., РЎРѕР»РѕРІСЊРµРІ Р .Рђ. РњР•РўРћР”Р« РЎРРќРўР•Р—Рђ РЎР‘РћР•РЈРЎРўРћР™Р§РР’Р«РҐ РљРћРњР‘РРќРђР¦РРћРќРќР«РҐ РљРњРћРџ РЎРҐР•Рњ, РћР‘Р•РЎРџР•Р§РР’РђР®Р©РРҐ РђР’РўРћРњРђРўРР§Р•РЎРљРћР• РРЎРџР РђР’Р›Р•РќРР• РћРЁРР‘РћРљ // РР·РІРµСЃС‚РёСЏ Р®Р¤РЈ. РўРµС…РЅРёС‡РµСЃРєРёРµ РЅР°СѓРєРё. 2017. в„– 7 (192). РЎ. 197-210.
 Rudell, Richard L. (1986-06-05), "Multiple-Valued Logic Minimization for PLA Synthesis", Memorandum No. UCB/ERL M86-65, Berkeley
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А. Повышение сбоеустойчивости логических схем на основе частичного ресинтеза схемы // Информационные технологии. 2016. Т. 22. № 7. С. 515-522.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ. РџРѕРІС‹С€РµРЅРёРµ СЃР±РѕРµСѓСЃС‚РѕР№С‡РёРІРѕСЃС‚Рё Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј РЅР° РѕСЃРЅРѕРІРµ С‡Р°СЃС‚РёС‡РЅРѕРіРѕ СЂРµСЃРёРЅС‚РµР·Р° СЃС…РµРјС‹ // РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2016. Рў. 22. в„– 7. РЎ. 515-522.
 Huang H.-M., Wen H.-P. W. Fast-yet-accurate statistical soft-error-rate analysis considering full-spectrum charge collection / IEEE Design & Test, March/April 2013, pp. 77-86.
-Хетагуров Я. А., Руднев Ю. П. Повышение надёжности цифровых устройств методами избыточного кодирования. М.: Энергия, 1974. C. 270.
-Soobeeh, M. Yiorgos. Fault tolerant design of combinational and sequen-tial logic based on a party check code // Proceedings of 18th IEEE inter-national Symposium on Design and Fault Tolerance VLSI Systems (DFT’03).
-Гаврилов С.В., Гуров С.И., Жукова Т.Д., Рухлов В.С., Рыжова Д.И., Тельпухов Д.В. МЕТОДЫ ПОВЫШЕНИЯ СБОЕУСТОЙЧИВОСТИ КОМБИНАЦИОННЫХ ИМС НА ОСНОВЕ ИЗБЫТОЧНОГО КОДИРОВАНИЯ // В сборнике: ПРИКЛАДНАЯ МАТЕМАТИКА И ИНФОРМАТИКА труды факультета ВМК МГУ имени М.В. Ломоносова. Москва, 2016. С. 93-102.
-Электронный ресурс [http://icdm.ippm.ru/w/Схемы ISCAS85].
+РҐРµС‚Р°РіСѓСЂРѕРІ РЇ. Рђ., Р СѓРґРЅРµРІ Р®. Рџ. РџРѕРІС‹С€РµРЅРёРµ РЅР°РґС‘Р¶РЅРѕСЃС‚Рё С†РёС„СЂРѕРІС‹С… СѓСЃС‚СЂРѕР№СЃС‚РІ РјРµС‚РѕРґР°РјРё РёР·Р±С‹С‚РѕС‡РЅРѕРіРѕ РєРѕРґРёСЂРѕРІР°РЅРёСЏ. Рњ.: Р­РЅРµСЂРіРёСЏ, 1974. C. 270.
+Soobeeh, M. Yiorgos. Fault tolerant design of combinational and sequen-tial logic based on a party check code // Proceedings of 18th IEEE inter-national Symposium on Design and Fault Tolerance VLSI Systems (DFTвЂ™03).
+Р“Р°РІСЂРёР»РѕРІ РЎ.Р’., Р“СѓСЂРѕРІ РЎ.Р., Р–СѓРєРѕРІР° Рў.Р”., Р СѓС…Р»РѕРІ Р’.РЎ., Р С‹Р¶РѕРІР° Р”.Р., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’. РњР•РўРћР”Р« РџРћР’Р«РЁР•РќРРЇ РЎР‘РћР•РЈРЎРўРћР™Р§РР’РћРЎРўР РљРћРњР‘РРќРђР¦РРћРќРќР«РҐ РРњРЎ РќРђ РћРЎРќРћР’Р• РР—Р‘Р«РўРћР§РќРћР“Рћ РљРћР”РР РћР’РђРќРРЇ // Р’ СЃР±РѕСЂРЅРёРєРµ: РџР РРљР›РђР”РќРђРЇ РњРђРўР•РњРђРўРРљРђ Р РРќР¤РћР РњРђРўРРљРђ С‚СЂСѓРґС‹ С„Р°РєСѓР»СЊС‚РµС‚Р° Р’РњРљ РњР“РЈ РёРјРµРЅРё Рњ.Р’. Р›РѕРјРѕРЅРѕСЃРѕРІР°. РњРѕСЃРєРІР°, 2016. РЎ. 93-102.
+Р­Р»РµРєС‚СЂРѕРЅРЅС‹Р№ СЂРµСЃСѓСЂСЃ [http://icdm.ippm.ru/w/РЎС…РµРјС‹ ISCAS85].
 Huang H.-M., Wen H.-P. W. Fast-yet-accurate statistical soft-error-rate analysis considering full-spectrum charge collection / IEEE Design & Test, March/April 2013, pp. 77-86.
-Soobeeh, M. Yiorgos. Fault tolerant design of combinational and sequen-tial logic based on a party check code // Proceedings of 18th IEEE inter-national Symposium on Design and Fault Tolerance VLSI Systems (DFT’03).
+Soobeeh, M. Yiorgos. Fault tolerant design of combinational and sequen-tial logic based on a party check code // Proceedings of 18th IEEE inter-national Symposium on Design and Fault Tolerance VLSI Systems (DFTвЂ™03).
 Holland J.H. Adaptation in natural and artificial systems. University of Michigan Press, Ann Arbor. 1975.
 Gallager R. G. Low density parity check codes.   Cambridge: M.I.T. Press, 1963.
-Блейхут Р. Теория и практика кодов, контролирующих ошибки // М.: Книга по требованию, 2013. – 566 с.
-Кодирование информации (двоичные коды). Справочник // Под ред. проф. Н. Т. Березнюка.   Харьков: Вища школа.   1978.
-Дадаев Ю. Г. Теория арифметических кодов.   М.: Радио и связь. – 1981.
+Р‘Р»РµР№С…СѓС‚ Р . РўРµРѕСЂРёСЏ Рё РїСЂР°РєС‚РёРєР° РєРѕРґРѕРІ, РєРѕРЅС‚СЂРѕР»РёСЂСѓСЋС‰РёС… РѕС€РёР±РєРё // Рњ.: РљРЅРёРіР° РїРѕ С‚СЂРµР±РѕРІР°РЅРёСЋ, 2013. вЂ“ 566 СЃ.
+РљРѕРґРёСЂРѕРІР°РЅРёРµ РёРЅС„РѕСЂРјР°С†РёРё (РґРІРѕРёС‡РЅС‹Рµ РєРѕРґС‹). РЎРїСЂР°РІРѕС‡РЅРёРє // РџРѕРґ СЂРµРґ. РїСЂРѕС„. Рќ. Рў. Р‘РµСЂРµР·РЅСЋРєР°.   РҐР°СЂСЊРєРѕРІ: Р’РёС‰Р° С€РєРѕР»Р°.   1978.
+Р”Р°РґР°РµРІ Р®. Р“. РўРµРѕСЂРёСЏ Р°СЂРёС„РјРµС‚РёС‡РµСЃРєРёС… РєРѕРґРѕРІ.   Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ. вЂ“ 1981.
 Poolakkaparambil M., Mathew J. BCH code based multiple bit error cor-rection in finite field multiplier circuits // ISQED, 2011, pp. 1-6.
-Согомонян Е. С., Слабаков Е. В. Самопроверяемые устройства и от-казоустойчивые системы. М.: Радио и связь. 1989. - 208 с.
-Хетагуров Я. А., Руднев Ю. П. Повышение надёжности цифровых устройств методами избыточного кодирования. М.: Энергия, 1974. C. 270. 
-Блейхут Р. Теория и практика кодов, контролирующих ошибки // М.: Книга по требованию, 2013. – 566 с.
-Кодирование информации (двоичные коды). Справочник // Под ред. проф. Н. Т. Березнюка.   Харьков: Вища школа.   1978.
-Дадаев Ю. Г. Теория арифметических кодов.   М.: Радио и связь. – 1981.
-Soobeeh, M. Yiorgos. Fault tolerant design of combinational and sequen-tial logic based on a party check code // Proceedings of 18th IEEE inter-national Symposium on Design and Fault Tolerance VLSI Systems (DFT’03).
+РЎРѕРіРѕРјРѕРЅСЏРЅ Р•. РЎ., РЎР»Р°Р±Р°РєРѕРІ Р•. Р’. РЎР°РјРѕРїСЂРѕРІРµСЂСЏРµРјС‹Рµ СѓСЃС‚СЂРѕР№СЃС‚РІР° Рё РѕС‚-РєР°Р·РѕСѓСЃС‚РѕР№С‡РёРІС‹Рµ СЃРёСЃС‚РµРјС‹. Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ. 1989. - 208 СЃ.
+РҐРµС‚Р°РіСѓСЂРѕРІ РЇ. Рђ., Р СѓРґРЅРµРІ Р®. Рџ. РџРѕРІС‹С€РµРЅРёРµ РЅР°РґС‘Р¶РЅРѕСЃС‚Рё С†РёС„СЂРѕРІС‹С… СѓСЃС‚СЂРѕР№СЃС‚РІ РјРµС‚РѕРґР°РјРё РёР·Р±С‹С‚РѕС‡РЅРѕРіРѕ РєРѕРґРёСЂРѕРІР°РЅРёСЏ. Рњ.: Р­РЅРµСЂРіРёСЏ, 1974. C. 270. 
+Р‘Р»РµР№С…СѓС‚ Р . РўРµРѕСЂРёСЏ Рё РїСЂР°РєС‚РёРєР° РєРѕРґРѕРІ, РєРѕРЅС‚СЂРѕР»РёСЂСѓСЋС‰РёС… РѕС€РёР±РєРё // Рњ.: РљРЅРёРіР° РїРѕ С‚СЂРµР±РѕРІР°РЅРёСЋ, 2013. вЂ“ 566 СЃ.
+РљРѕРґРёСЂРѕРІР°РЅРёРµ РёРЅС„РѕСЂРјР°С†РёРё (РґРІРѕРёС‡РЅС‹Рµ РєРѕРґС‹). РЎРїСЂР°РІРѕС‡РЅРёРє // РџРѕРґ СЂРµРґ. РїСЂРѕС„. Рќ. Рў. Р‘РµСЂРµР·РЅСЋРєР°.   РҐР°СЂСЊРєРѕРІ: Р’РёС‰Р° С€РєРѕР»Р°.   1978.
+Р”Р°РґР°РµРІ Р®. Р“. РўРµРѕСЂРёСЏ Р°СЂРёС„РјРµС‚РёС‡РµСЃРєРёС… РєРѕРґРѕРІ.   Рњ.: Р Р°РґРёРѕ Рё СЃРІСЏР·СЊ. вЂ“ 1981.
+Soobeeh, M. Yiorgos. Fault tolerant design of combinational and sequen-tial logic based on a party check code // Proceedings of 18th IEEE inter-national Symposium on Design and Fault Tolerance VLSI Systems (DFTвЂ™03).
 Richter M. and all. New linear SEC-DED codes with reduced triple bit er-ror miscreation probability // 14th Int. On-Line Testing Symposium. 2008. P 37-40.
 Reviriego P., Martinez J., Maestro J. A. A method to design SEC-DED-DAEC codes with optimized decoding // IEEE Transactions on Device and Materials Reliability 14(3): 884-889.
 Gallager R. G. Low density parity check codes.   Cambridge: M.I.T. Press, 1963.
-S. V. Gavrilov, S. I. Gurov, T. D. Zhukova, V. S. Rukhlov, D. I. Ryzhova, D. V. Tel’pukhov, Methods to Increase Fault Tolerance of Combinational Integrated Microcircuits by Redundancy Coding // Computational Mathematics and Modeling, 2017, Volume 28, Issue 3, pp 400–406
-Иванов Ф. И., Зяблов В. В., Потапов В. Г. Коды с малой плотностью проверок на чётность, основанные на полях Галуа // Информацион-ные процессы, Том 12, № 1, 2012, стр. 68–83.
+S. V. Gavrilov, S. I. Gurov, T. D. Zhukova, V. S. Rukhlov, D. I. Ryzhova, D. V. TelвЂ™pukhov, Methods to Increase Fault Tolerance of Combinational Integrated Microcircuits by Redundancy Coding // Computational Mathematics and Modeling, 2017, Volume 28, Issue 3, pp 400вЂ“406
+РРІР°РЅРѕРІ Р¤. Р., Р—СЏР±Р»РѕРІ Р’. Р’., РџРѕС‚Р°РїРѕРІ Р’. Р“. РљРѕРґС‹ СЃ РјР°Р»РѕР№ РїР»РѕС‚РЅРѕСЃС‚СЊСЋ РїСЂРѕРІРµСЂРѕРє РЅР° С‡С‘С‚РЅРѕСЃС‚СЊ, РѕСЃРЅРѕРІР°РЅРЅС‹Рµ РЅР° РїРѕР»СЏС… Р“Р°Р»СѓР° // РРЅС„РѕСЂРјР°С†РёРѕРЅ-РЅС‹Рµ РїСЂРѕС†РµСЃСЃС‹, РўРѕРј 12, в„– 1, 2012, СЃС‚СЂ. 68вЂ“83.
 Hoory S., Linial N., Wigderson A. Expander graphs and their applica-tions / Bulletin of the AMS, vol. 43, Number 4, Oct. 2006, pp.439-561.
-Accurate reliability analysis of concurrent checking circuits employing an efficient analytical method / T. An [and others] // Microelectronics Reliability. – 2015. – V. 55. - P. 696 -703.
-Ефанов, Д.В. Три теоремы о кодах Бергера в схемах встроенного контроля / Д.В. Ефанов // Информатика и системы управления. – 2013. - №1(35). - C. 77 – 86.
-Применение кодов Бергера и Хэмминга в схемах функционального контроля /  Вал.В. Сапожников [и др.] // Известия Петербургского университета путей сообщения. – 2013. - №2 (35). - C. 168 – 182.
-Применение кодов Бергера и Хэмминга в схемах функционального контроля /  Вал.В. Сапожников [и др.] // Известия Петербургского университета путей сообщения. – 2013. - №2 (35). - C. 168 – 182.
-Ефанов, Д.В. Предельные свойства кода Хемминга в схемах функционального контроля / Д.В. Ефанов, // Известия петербургского университета путей сообщения. – 2011.  - №3(29). - C. 71 – 79.
-Блейхут, Р. Теория и практика кодов, контролирующих ошибки / Р. Блейхут. - М.: Мир, 1986. - 576 с.
-Вернер, М Основы кодирования / М. Вернер. – М.: Техносфера, 2004. – 288с.
-Савченко, Ю.Г. Цифровые устройства нечувствительные к неисправностям элементов // Изд-во: М.: Советское радио, 1977 г.
-Оптимальный систематический код на основе взвешивания разрядов информационных векторов и суммирования без переносов для систем функционального контроля /  В.В. Сапожников [и др.] // Известия Петербургского университета путей сообщения. – 2016. - №1 (46). - C. 75 – 84.
-Д.В. Тельпухов, А.И. Деменева, Т.Д. Жукова, Н.С. Хрущев Исследование и разработка систем автоматизированного проектирования схем функционального контроля комбинационных логических устройств // Электронная техника. Серия 3: Микроэлектроника. 2018. Принято к печати
-Исследование вероятностных методов оценки логической уязвимости комбинационных схем / А.Л. Стемпковский [и др.] // Проблемы разработки перспективных микро- и наноэлектронных систем / под общ. ред. Академика РАН А.Л. Стемковского. - М: ИППМ РАН, 2016. Часть IV. – C. 121 - 126.
-Ефанов, Д.В. Три теоремы о кодах Бергера в схемах встроенного контроля / Д.В. Ефанов // Информатика и системы управления. – 2013. - №1(35). - C. 77 – 86.
+Accurate reliability analysis of concurrent checking circuits employing an efficient analytical method / T. An [and others] // Microelectronics Reliability. вЂ“ 2015. вЂ“ V. 55. - P. 696 -703.
+Р•С„Р°РЅРѕРІ, Р”.Р’. РўСЂРё С‚РµРѕСЂРµРјС‹ Рѕ РєРѕРґР°С… Р‘РµСЂРіРµСЂР° РІ СЃС…РµРјР°С… РІСЃС‚СЂРѕРµРЅРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ / Р”.Р’. Р•С„Р°РЅРѕРІ // РРЅС„РѕСЂРјР°С‚РёРєР° Рё СЃРёСЃС‚РµРјС‹ СѓРїСЂР°РІР»РµРЅРёСЏ. вЂ“ 2013. - в„–1(35). - C. 77 вЂ“ 86.
+РџСЂРёРјРµРЅРµРЅРёРµ РєРѕРґРѕРІ Р‘РµСЂРіРµСЂР° Рё РҐСЌРјРјРёРЅРіР° РІ СЃС…РµРјР°С… С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ /  Р’Р°Р».Р’. РЎР°РїРѕР¶РЅРёРєРѕРІ [Рё РґСЂ.] // РР·РІРµСЃС‚РёСЏ РџРµС‚РµСЂР±СѓСЂРіСЃРєРѕРіРѕ СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р° РїСѓС‚РµР№ СЃРѕРѕР±С‰РµРЅРёСЏ. вЂ“ 2013. - в„–2 (35). - C. 168 вЂ“ 182.
+РџСЂРёРјРµРЅРµРЅРёРµ РєРѕРґРѕРІ Р‘РµСЂРіРµСЂР° Рё РҐСЌРјРјРёРЅРіР° РІ СЃС…РµРјР°С… С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ /  Р’Р°Р».Р’. РЎР°РїРѕР¶РЅРёРєРѕРІ [Рё РґСЂ.] // РР·РІРµСЃС‚РёСЏ РџРµС‚РµСЂР±СѓСЂРіСЃРєРѕРіРѕ СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р° РїСѓС‚РµР№ СЃРѕРѕР±С‰РµРЅРёСЏ. вЂ“ 2013. - в„–2 (35). - C. 168 вЂ“ 182.
+Р•С„Р°РЅРѕРІ, Р”.Р’. РџСЂРµРґРµР»СЊРЅС‹Рµ СЃРІРѕР№СЃС‚РІР° РєРѕРґР° РҐРµРјРјРёРЅРіР° РІ СЃС…РµРјР°С… С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ / Р”.Р’. Р•С„Р°РЅРѕРІ, // РР·РІРµСЃС‚РёСЏ РїРµС‚РµСЂР±СѓСЂРіСЃРєРѕРіРѕ СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р° РїСѓС‚РµР№ СЃРѕРѕР±С‰РµРЅРёСЏ. вЂ“ 2011.  - в„–3(29). - C. 71 вЂ“ 79.
+Р‘Р»РµР№С…СѓС‚, Р . РўРµРѕСЂРёСЏ Рё РїСЂР°РєС‚РёРєР° РєРѕРґРѕРІ, РєРѕРЅС‚СЂРѕР»РёСЂСѓСЋС‰РёС… РѕС€РёР±РєРё / Р . Р‘Р»РµР№С…СѓС‚. - Рњ.: РњРёСЂ, 1986. - 576 СЃ.
+Р’РµСЂРЅРµСЂ, Рњ РћСЃРЅРѕРІС‹ РєРѕРґРёСЂРѕРІР°РЅРёСЏ / Рњ. Р’РµСЂРЅРµСЂ. вЂ“ Рњ.: РўРµС…РЅРѕСЃС„РµСЂР°, 2004. вЂ“ 288СЃ.
+РЎР°РІС‡РµРЅРєРѕ, Р®.Р“. Р¦РёС„СЂРѕРІС‹Рµ СѓСЃС‚СЂРѕР№СЃС‚РІР° РЅРµС‡СѓРІСЃС‚РІРёС‚РµР»СЊРЅС‹Рµ Рє РЅРµРёСЃРїСЂР°РІРЅРѕСЃС‚СЏРј СЌР»РµРјРµРЅС‚РѕРІ // РР·Рґ-РІРѕ: Рњ.: РЎРѕРІРµС‚СЃРєРѕРµ СЂР°РґРёРѕ, 1977 Рі.
+РћРїС‚РёРјР°Р»СЊРЅС‹Р№ СЃРёСЃС‚РµРјР°С‚РёС‡РµСЃРєРёР№ РєРѕРґ РЅР° РѕСЃРЅРѕРІРµ РІР·РІРµС€РёРІР°РЅРёСЏ СЂР°Р·СЂСЏРґРѕРІ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹С… РІРµРєС‚РѕСЂРѕРІ Рё СЃСѓРјРјРёСЂРѕРІР°РЅРёСЏ Р±РµР· РїРµСЂРµРЅРѕСЃРѕРІ РґР»СЏ СЃРёСЃС‚РµРј С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ /  Р’.Р’. РЎР°РїРѕР¶РЅРёРєРѕРІ [Рё РґСЂ.] // РР·РІРµСЃС‚РёСЏ РџРµС‚РµСЂР±СѓСЂРіСЃРєРѕРіРѕ СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р° РїСѓС‚РµР№ СЃРѕРѕР±С‰РµРЅРёСЏ. вЂ“ 2016. - в„–1 (46). - C. 75 вЂ“ 84.
+Р”.Р’. РўРµР»СЊРїСѓС…РѕРІ, Рђ.Р. Р”РµРјРµРЅРµРІР°, Рў.Р”. Р–СѓРєРѕРІР°, Рќ.РЎ. РҐСЂСѓС‰РµРІ РСЃСЃР»РµРґРѕРІР°РЅРёРµ Рё СЂР°Р·СЂР°Р±РѕС‚РєР° СЃРёСЃС‚РµРј Р°РІС‚РѕРјР°С‚РёР·РёСЂРѕРІР°РЅРЅРѕРіРѕ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ СЃС…РµРј С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… Р»РѕРіРёС‡РµСЃРєРёС… СѓСЃС‚СЂРѕР№СЃС‚РІ // Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ С‚РµС…РЅРёРєР°. РЎРµСЂРёСЏ 3: РњРёРєСЂРѕСЌР»РµРєС‚СЂРѕРЅРёРєР°. 2018. РџСЂРёРЅСЏС‚Рѕ Рє РїРµС‡Р°С‚Рё
+РСЃСЃР»РµРґРѕРІР°РЅРёРµ РІРµСЂРѕСЏС‚РЅРѕСЃС‚РЅС‹С… РјРµС‚РѕРґРѕРІ РѕС†РµРЅРєРё Р»РѕРіРёС‡РµСЃРєРѕР№ СѓСЏР·РІРёРјРѕСЃС‚Рё РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… СЃС…РµРј / Рђ.Р›. РЎС‚РµРјРїРєРѕРІСЃРєРёР№ [Рё РґСЂ.] // РџСЂРѕР±Р»РµРјС‹ СЂР°Р·СЂР°Р±РѕС‚РєРё РїРµСЂСЃРїРµРєС‚РёРІРЅС‹С… РјРёРєСЂРѕ- Рё РЅР°РЅРѕСЌР»РµРєС‚СЂРѕРЅРЅС‹С… СЃРёСЃС‚РµРј / РїРѕРґ РѕР±С‰. СЂРµРґ. РђРєР°РґРµРјРёРєР° Р РђРќ Рђ.Р›. РЎС‚РµРјРєРѕРІСЃРєРѕРіРѕ. - Рњ: РРџРџРњ Р РђРќ, 2016. Р§Р°СЃС‚СЊ IV. вЂ“ C. 121 - 126.
+Р•С„Р°РЅРѕРІ, Р”.Р’. РўСЂРё С‚РµРѕСЂРµРјС‹ Рѕ РєРѕРґР°С… Р‘РµСЂРіРµСЂР° РІ СЃС…РµРјР°С… РІСЃС‚СЂРѕРµРЅРЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»СЏ / Р”.Р’. Р•С„Р°РЅРѕРІ // РРЅС„РѕСЂРјР°С‚РёРєР° Рё СЃРёСЃС‚РµРјС‹ СѓРїСЂР°РІР»РµРЅРёСЏ. вЂ“ 2013. - в„–1(35). - C. 77 вЂ“ 86.
 AO Balbekov, MS Gorbunov, SG Bobkov Layout-aware Soft Error Rate Estimation Technique for Integrated Circuits under the Environment with Energetic Charged Particles // Journal of Physics: Conference Series 798 (1), 2017
 A Balbekov, M Gorbunov, S Bobkov Layout-aware simulation of soft errors in sub-100 nm integrated circuits // International Conference on Micro-and Nano-Electronics 2016 10224, 1022418
-Стемпковский А.Л., Тельпухов Д.В., Соловьев Р.А., Рухлов В.С. Тестовая система для сравнения алгоритмов, увеличивающих надежность комбинационных схем // Информационные технологии. 2015. Т. 21. № 12. С. 910-915.
-Соловьев Р.А., Тельпухов Д.В., Рухлов В.С., Щелоков А.Н. Автоматическая система тестов для оценки алгоритмов увеличения надежности логических схем // Вторая Российско-Белорусская научно-техническая конференция «Элементная база отечественной радиоэлектроники: импортозамещение и применение» им. О.В. Лосева. Нижний Новгород, 17-19 ноября 2015. С. 432-436.
+РЎС‚РµРјРїРєРѕРІСЃРєРёР№ Рђ.Р›., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., РЎРѕР»РѕРІСЊРµРІ Р .Рђ., Р СѓС…Р»РѕРІ Р’.РЎ. РўРµСЃС‚РѕРІР°СЏ СЃРёСЃС‚РµРјР° РґР»СЏ СЃСЂР°РІРЅРµРЅРёСЏ Р°Р»РіРѕСЂРёС‚РјРѕРІ, СѓРІРµР»РёС‡РёРІР°СЋС‰РёС… РЅР°РґРµР¶РЅРѕСЃС‚СЊ РєРѕРјР±РёРЅР°С†РёРѕРЅРЅС‹С… СЃС…РµРј // РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё. 2015. Рў. 21. в„– 12. РЎ. 910-915.
+РЎРѕР»РѕРІСЊРµРІ Р .Рђ., РўРµР»СЊРїСѓС…РѕРІ Р”.Р’., Р СѓС…Р»РѕРІ Р’.РЎ., Р©РµР»РѕРєРѕРІ Рђ.Рќ. РђРІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ СЃРёСЃС‚РµРјР° С‚РµСЃС‚РѕРІ РґР»СЏ РѕС†РµРЅРєРё Р°Р»РіРѕСЂРёС‚РјРѕРІ СѓРІРµР»РёС‡РµРЅРёСЏ РЅР°РґРµР¶РЅРѕСЃС‚Рё Р»РѕРіРёС‡РµСЃРєРёС… СЃС…РµРј // Р’С‚РѕСЂР°СЏ Р РѕСЃСЃРёР№СЃРєРѕ-Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ РЅР°СѓС‡РЅРѕ-С‚РµС…РЅРёС‡РµСЃРєР°СЏ РєРѕРЅС„РµСЂРµРЅС†РёСЏ В«Р­Р»РµРјРµРЅС‚РЅР°СЏ Р±Р°Р·Р° РѕС‚РµС‡РµСЃС‚РІРµРЅРЅРѕР№ СЂР°РґРёРѕСЌР»РµРєС‚СЂРѕРЅРёРєРё: РёРјРїРѕСЂС‚РѕР·Р°РјРµС‰РµРЅРёРµ Рё РїСЂРёРјРµРЅРµРЅРёРµВ» РёРј. Рћ.Р’. Р›РѕСЃРµРІР°. РќРёР¶РЅРёР№ РќРѕРІРіРѕСЂРѕРґ, 17-19 РЅРѕСЏР±СЂСЏ 2015. РЎ. 432-436.
 http://spoj.com 
 http://www.spoj.com/info/
 http://icdm.ippm.ru/docs/zrely/Judge.zip
-http://www.spoj.com/ZELARCH/problems/ZRELY/ - русская версия задачи
-http://www.spoj.com/problems/ZRELY1/ - английская версия задачи
+http://www.spoj.com/ZELARCH/problems/ZRELY/ - СЂСѓСЃСЃРєР°СЏ РІРµСЂСЃРёСЏ Р·Р°РґР°С‡Рё
+http://www.spoj.com/problems/ZRELY1/ - Р°РЅРіР»РёР№СЃРєР°СЏ РІРµСЂСЃРёСЏ Р·Р°РґР°С‡Рё
